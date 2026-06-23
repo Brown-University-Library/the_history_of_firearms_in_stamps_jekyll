@@ -1,0 +1,17 @@
+{% include baseurl.html %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="{{ site.keywords | join: ", " | escape_once }}">
+  <meta name="description" content="{{ description | escape_once }}">
+  <title>
+      {{ site.title }}
+  </title>
+  <link rel="stylesheet" href="{{ baseurl }}/css/styles.css">
+</head>
+<body id="fullstamps">
+  {{ content }}
+</body>
+</html>

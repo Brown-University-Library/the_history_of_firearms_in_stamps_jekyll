@@ -1,0 +1,124 @@
+---
+# base layout for other item display_template layouts
+# adds breadcrumbs and title at top; citation box, rights box, and browse buttons at bottom
+layout: default
+# item-meta adds rich meta markup to the page on production build
+item-meta: false
+---
+    <main>
+        {% include item/leftnav.html %}
+        {% assign srcsetimg = page.itemimage %}
+        {% include imgsrcset.html %}
+        {% for section in site.hierarchy %}
+            {% for case in section.children %}
+                {% assign parentcaseid = page.caseid | string | strip %}
+                {% assign caseid = case.caseid | string | strip %}
+                {% if parentcaseid == caseid %}
+                    {% assign bg = section.dkcolor %}
+                    {% assign parentcase = case %}
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
+        <section id="item" style="background-color:{{ bg }}">
+            <div class="imgbox">
+                <div class="imgwrapper"> 
+                <a href="#zoom" >
+                    <img
+                      srcset="{{ srcset }}"
+                      sizes="(width > 900px) 70vw, (width <= 900px) 100vw"
+                      alt="{{ page.image_alt_text | default: page.description | default: page.title | escape }}"
+                      class="img-fluid"
+                    />
+                </a>
+                  {% if page.boxes %}
+                    {% assign boxes = page.boxes | split: "|" %}
+                    {% for boxstring in boxes %}
+                      {% assign box = boxstring | split: ':' %}
+                      {% assign coords = box | first | split: ',' %}
+                      {% assign top = coords | first %}
+                      {% assign left = coords[1] %}
+                      {% assign bottomnum = coords[2] | remove: "%" %}
+                      {% assign bottom = 100 | minus: bottomnum | append: "%" %}
+                      {% assign rightnum = coords[3] | remove: "%"%}
+                      {% assign right = 100 | minus: rightnum | append: "%" %}
+                      {% assign img = box[1] %}
+                      {% assign anchor = box[2] %}
+                      {% assign zoommodalalt = box[3] %}
+                      <a
+                        href="#{{ anchor }}"
+                        class="hotbox"
+                        style="top:{{ top }}; left:{{ left }}; bottom:{{ bottom }}; right:{{ right }};"
+                      >
+                        <div></div>
+                      </a>
+                      {% assign zoommodalimg = img %}
+                      {% assign zoommodalid = anchor %}
+                      {% include zoommodal.html %}
+                    {% endfor %}
+                  {% endif %}
+                  {% if page.hotspots %}
+                    {% assign hotspots = page.hotspots | split: "|" %}
+                    {% for fullhotspot in hotspots %}
+                      {% assign hotspot = fullhotspot | split: ':' %}
+                      {% assign coords = hotspot | first | split: ',' %}
+                      {% assign top = coords | first %}
+                      {% assign left = coords | last %}
+                      {% assign img = hotspot[1] %}
+                      {% assign anchor = hotspot[2] %}
+                      {% assign zoommodalalt = hotspot[3] %}
+                      <a
+                        href="#{{ anchor }}"
+                        class="hotspot"
+                        style="top:{{ top }}; left:{{ left }};"
+                      >
+                        <div></div>
+                      </a>
+                      {% assign zoommodalimg = img %}
+                      {% assign zoommodalid = anchor %}
+                      {% include zoommodal.html %}
+                    {% endfor %}
+                  {% endif %}
+                </div>
+            </div>
+            <div id="itemdescbox">
+                <details >
+                    <summary>
+                        <span><h2>{{ page.title }}</h2>
+                        {% if page.orig_link %} <a
+                          href="{{ page.orig_link }}"
+                          id="#topleveloriglink"
+                          target="_blank"
+                        >View original record</a>{% endif %}
+                        </span>
+                    </summary>
+                    <div id="itemdesc">
+                        <p>
+                            {{ page.attr | newline_to_br }}
+                        </p>
+                        <br>
+                        <p>
+                            {{ page.description }}
+                        </p>
+                    </div>
+                </details>
+            </div>
+            {% assign returnicon = "⮌" %}
+            {% assign previcon = "＜" %}
+            {% assign nexticon = "＞" %}
+            {% if page.prev_url == parentcase.url %}{% assign previcon = returnicon %}{% endif %}
+            {% if page.next_url == parentcase.url %}{% assign nexticon = returnicon %}{% endif %}
+            <a href="{{ baseurl }}/{ page.prev_url }}" class="nextprev" id="prev">{{ previcon }}</a>
+            <a href="{{ baseurl }}/{ page.next_url }}" class="nextprev" id="next">{{ nexticon }}</a>
+            {% capture zoommodallinks %}
+                {% if page.orig_link %}
+                        <a href="{{ page.orig_link }}" class="original_link" target="_blank"
+                        >View original record</a>
+                {% endif %}
+            {% endcapture %}
+            {% assign zoommodalimg = page.itemimage %}
+            {% assign zoommodalid = "zoom" %}
+            {% assign zoommodalalt = page.image_alt_text %}
+            {% if page.extra_zoom %}{% assign zoommodalextra = true %}{% else %}{% assign zoommodalextra = false %}{% endif %}
+            {% include zoommodal.html %}
+        </section>
+    </main>

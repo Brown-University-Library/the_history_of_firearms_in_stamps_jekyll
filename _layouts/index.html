@@ -1,0 +1,34 @@
+---
+layout: base
+---
+  {% assign introclasses="tall"
+  %}{% include intropanel.html -%}
+  <section id="maincontent">
+    <nav id="main-nav" aria-label="exhibit content">
+      <ul>
+        {%- for section in site.sections -%}
+        {%- assign srcsetimg = section.anchor_image -%}
+        {%- include imgsrcset.html -%}
+        <li{% if section.accentcolor %} style="--_bgcolor: {{ section.accentcolor }};"{% endif %}>
+          <a href="#{{ section.slug }}">
+            <div><p>{{ section.title }}</p></div>
+            <img
+              srcset="{{ srcset }}"
+              sizes="(aspect-ratio >= 5/4) 44vw, (aspect-ratio < 5/4) 100vw"
+              alt="{{ section.anchor_image_alt }}"
+            />
+          </a>
+        </li>
+        {%- endfor -%}
+      </ul>
+    </nav>
+    {% for section in site.sections
+  %}{%   capture modalcontent
+  %}{%     include section.html
+  %}{%   endcapture
+  %}{%   assign modalclasses = "inplace full"
+  %}{%   assign modalid = section.slug
+  %}{%   assign modaltitle = section.title
+  %}{%   include modal.html
+  %}{% endfor -%}
+  </section>

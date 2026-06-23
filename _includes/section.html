@@ -1,0 +1,28 @@
+    <nav id="case-nav" aria-label="exhibit content">
+      <ul>
+        {% for case in site.cases 
+        %}{% if case.parentid == section.objectid 
+        %}{% assign srcsetimg = case.anchorimg 
+        %}{% include imgsrcset.html -%}
+        <li>
+          <a href="{{baseurl}}{{ case.url | default: 'case.html' }}">
+            <div>
+            <p>
+              {{ case.title | markdownify
+                 | remove: "<p>"
+                 | remove: "</p>"
+                 | remove: "<br>"
+              }}
+            </p>
+            </div>
+            <img
+              srcset="{{ srcset }}"
+              alt="{{ case.anchorimgalt }}"
+              sizes="(width > 900px) 34vw, (width <= 900px) 50vw"
+            >
+          </a>
+        </li>
+        {%- endif
+     %}{% endfor -%}
+      </ul>
+    </nav>

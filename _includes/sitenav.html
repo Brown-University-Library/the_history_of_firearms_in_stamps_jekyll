@@ -1,0 +1,33 @@
+{% include baseurl.html %}
+        <nav id="mainnav">
+          <ul>
+            {% unless site.include_index_in_nav == false -%}
+            <li{% if page.url == "/" or page.url == "/index.html" %} class="active"{% endif %}>
+              <a href="{{ baseurl }}/index.html">
+                {% for page in site.pages
+                %}{% if page.slug == "index"
+                %}{{ page.title
+                }}{% endif
+                %}{% endfor %}
+              </a>
+            </li>
+            {%- endunless
+            %}{% for case in site.cases
+            %}{% if case.parentid == section.objectid %}
+            <li{% if case.objectid ==
+              page.parentid or case.objectid ==
+           page.objectid %} class="active"{% endif %}>
+              <a href="{{ baseurl }}{{ case.url
+                }}">{{
+                case.title
+                | remove: '<br>'
+                | markdownify
+                | remove: '<p>'
+                | remove: '</p>'
+            }}</a>
+            </li>
+              {%- endif
+            %}{% endfor
+            %}
+          </ul>
+        </nav>

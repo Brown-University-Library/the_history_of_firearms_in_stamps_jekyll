@@ -1,0 +1,33 @@
+---
+layout: base
+---
+  <section id="intro">
+    <div id="exhibit-nav">
+        <nav>
+          <ul>
+            {%- for section in site.sections -%}
+            <li>
+              <a href="section.html">{{section.title}}</a>
+              <ul>
+                {%- for case in site.cases -%}
+                <li><a href="case.html">{{case.title}}</a></li>
+                {%- endfor -%}
+              </ul>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </nav>
+      </div>
+    <link
+      rel="stylesheet"
+      href="{{baseurl}}css/altindex.css"
+    >
+  </section>
+  <section id="maincontent">
+    <hgroup>
+      <h2>{{page.title}}</h2>
+      <p>{{page.subtitle}}</p>
+    </hgroup>
+    <img src="./img/itemimgs/700px/700px_Birri_Oversize-Box-15XXX_Folder-06_14m.webp">
+    {{ content }}
+  </section>

@@ -1,0 +1,30 @@
+--- 
+layout: default
+---
+    {% include baseurl.html -%}
+    <div id="caseinfo">
+      <h1>{{page.title}}</h1>
+      {{ content }}
+    </div>
+    <div id="caseitems">
+      <a id="fullstamplink" href="#caseitems">For demo only: Show full height stamps</a>
+      <a id="truncstamplink" href="#">For demo only: Show cropped height stamps</a>
+      <ul>
+        {% for item in site.items 
+        %}{% assign srcsetimg = item.image
+        %}{% include imgsrcset.html
+        %}{% unless item.parentid != page.objectid or item.hide -%}
+        <li class="item">
+          <a href="{{ baseurl }}{{ item.url }}">
+            <img
+              srcset="{{ srcset }}"
+              sizes="(width > 900px) 30vw, (width <= 900px) 50vw"
+              alt="{{ item.alttext | escape }}"
+            >
+            <p>{{item.list_title | default: item.title }}</p>
+          </a>
+        </li>
+        {%- endunless %}
+        {%- endfor %}
+      </ul>
+    </div>

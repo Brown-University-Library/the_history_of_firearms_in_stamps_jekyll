@@ -1,0 +1,13 @@
+{% assign srcset = ''
+%}{% capture srcset
+%}{%   if site.img_sizes
+%}{%     for size in site.img_sizes
+%}{%       if srcsetimg
+           %}{{ baseurl }}/{{site.item_img_path }}{{size }}px/{{size}}px_{{ srcsetimg | uri_escape }}.webp {{size}}w,{%
+           endif
+%}{%     endfor
+%}{%   else
+       %}{{baseurl}}/{{site.item_img_path}}/{{srcsetimg
+}}{%   endif
+%}{% endcapture
+%}

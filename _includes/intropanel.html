@@ -1,0 +1,17 @@
+{% include baseurl.html -%}
+<section id="intro"{% if introclasses
+         %} class="{{ introclasses }}"{% endif %}>
+      <hgroup>
+        {% if parent
+        %}<a href="{{ baseurl }}{{parent.url}}" title="back">&lt;</a>
+        {% endif -%}
+        <h1>{{ page.title | markdownify
+          "<p>" | remove: "</p>" }}</h1>
+        <p>{{ page.subtitle | markdownify | remove: "<p>"
+        | remove: "</p>"}}</p>
+      </hgroup>
+      <div class="textblock">
+        {{ content }}
+      </div>
+      {% include sitenav.html %}
+    </section>

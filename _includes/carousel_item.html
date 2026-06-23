@@ -1,0 +1,18 @@
+<div id="carousel">
+{%- assign carousel = site.carousel_images | where: "parentid", page.objectid
+%}{% for image in carousel
+%}{% assign next_i = forloop.index0 | plus: 1
+%}{% assign prev_i = forloop.index0 | minus: 1
+%}{% assign nextobj = carousel[next_i]
+%}{% assign nextlink = nextobj.objectid
+%}{% assign prevobj = carousel[prev_i]
+%}{% assign prevlink = prevobj.objectid
+%}{% assign srcsetimg = image.image
+%}{% include imgsrcset.html
+%}{% assign imageitem = image
+%}{% assign imgid = image.objectid %}
+  <figure class="imgbox"{% if imgid %} id="{{ imgid }}"{% endif %}>
+    {% include wrappedimg.html %}
+  </figure>
+{% endfor -%}
+</div>

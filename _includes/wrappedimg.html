@@ -1,0 +1,44 @@
+    {% if iscarousel
+    %}{% unless forloop.first
+    %}<a class="carouselbtn prev" href="#{{ prevlink }}"></a>
+    {%  endunless
+    %}{% unless forloop.last
+    %}<a class="carouselbtn next" href="#{{ nextlink }}"></a>
+    {%  endunless
+    %}{% endif -%}
+    <div class="imgwrapper"> 
+      {% assign zoommodalid = "zoom"
+      %}{% if iscarousel
+      %}{%   assign zoommodalid = imageitem.objectid | append: "zoom"
+      %}{% endif -%}
+      <a {% unless nozoom %}href="#{{ zoommodalid }}"{% endunless %}>
+        <img
+            srcset="{{ srcset }}"
+            sizes="(width > 900px) 100vw, (width <= 900px) 100vw"
+            alt="{{ imageitem.alttext | replace: "\"","&quot;" | default: page.alttext | default: page.description | default: page.title | escape }}"
+            class="img-fluid"
+        />
+        <!-- the following quote is to fix my linter, which does not like the escaped quote above " -->
+      </a>
+      {% if imageitem.boxes %}{% include hotboxes.html %}{% endif
+      %}{% if imageitem.hotspots %}{% include hotspots_json.html %}{% endif
+      %}{% unless nozoom
+      %}{% capture zoommodallinks
+      %}{% if page.orig_link
+      %}<a href="{{ page.orig_link }}" class="original_link" target="_blank" >View original record</a>
+      {%   endif
+      %}{% endcapture
+      %}{% assign zoommodalimg = imageitem.image
+      %}{% assign zoommodalalt = imageitem.image_alt_text
+      %}{% if page.extra_zoom %}{% assign zoommodalextra = true %}{% else %}{% assign zoommodalextra = false %}{% endif
+      %}{% include zoommodal.html
+      %}{% endunless %}
+    </div>
+    {%- assign lowtitle = imageitem.title | downcase
+    %}{% if site.carouselcaptions and iscarousel and ((lowtitle != imageitem.objectid) or imageitem.content) %}
+    <figcaption>{% if lowtitle != imageitem.objectid %}
+      <h3>{{ imageitem.title | markdownify }}</h3>{% endif
+    %}{% if imageitem.content %}
+      {{ imageitem.content | markdownify }}{% endif %}
+    </figcaption>
+    {%- endif %}

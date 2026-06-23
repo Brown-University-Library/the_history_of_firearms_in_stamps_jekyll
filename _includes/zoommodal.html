@@ -1,0 +1,36 @@
+{% assign srcsetimg = zoommodalimg
+%}{% include imgsrcset.html
+%}{% if zoommodalextra == true
+%}{%   assign zoombasis = 3
+%}{% else
+%}{%   assign zoombasis = 1
+%}{% endif -%}
+<div class="modalcontainer" id="{{ zoommodalid }}">
+  <div class="{% if zoommodalextra == true %}extrazoom {% endif %}zoommodal">
+    <picture>
+      {% unless sizes -%}
+      <img src="{{ baseurl }}/{{site.item_img_path}}/{{srcsetimg}}" alt="{{ zoommodalalt | default: page.description | default: page.title | escape }}">{%
+      endunless
+      %}{% assign sizes = site.img_sizes | reverse
+      %}{% for size in sizes
+      %}{% capture srcset 
+      %}{{baseurl}}/{{site.item_img_path}}/{{size}}px/{{size}}px_{{ srcsetimg | uri_escape }}.webp
+      {%- endcapture
+      %}{% if forloop.last == false
+      %}{%   assign sizeindex = forloop.index | minus: zoommodalextra 
+      -%}    <source
+        media="(min-width:{{ sizes[sizeindex] | divided_by: zoombasis | str}}px)"
+        srcset="{{ srcset }}"
+      >{% else -%}
+      <img src="{{ srcset }}" alt="{{ zoommodalalt | default: page.description | default: page.title | escape }}">{% endif %}
+      {%- endfor %}
+    </picture>
+      <div id="zoomlinkbox">
+        {% for link in zoommodallinks %}{{ link }}{% endfor
+        %}{% if is_carousel
+        %}{%   assign modal_close_link = imageitem.objectid
+        %}{% endif %}
+        {% include modal_close.html %}
+      </div>
+  </div>
+</div>

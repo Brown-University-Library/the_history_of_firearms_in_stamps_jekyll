@@ -1,0 +1,21 @@
+    {% if modaldata.img
+    %}{% assign srcsetimg = modaldata.img
+    %}{% include imgsrcset.html -%}
+      <img
+        srcset="{{ srcset }}"
+        alt="{{ modaldata.imgalt }}"
+        sizes="40vw"
+      />
+    {% endif %}
+    <div>
+    <section class="textblock">
+        <h2>{{ modaldata.title markdownify | remove:
+          "\<p\>" | remove: "\</p\>" }}</h2>
+        {{ modaldata.content | markdownify }}
+        {% if modaldata.links %}<ul>
+            {% for link in modaldata.links %}<li>
+                <a href="{{ base }}{{ link.url }}">{{ link.text }}</a>
+            </li>{% endfor %}
+        </ul>{% endif %}
+    </section>
+    </div>

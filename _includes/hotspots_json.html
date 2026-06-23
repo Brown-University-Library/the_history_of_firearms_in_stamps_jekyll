@@ -1,0 +1,31 @@
+        {%- assign hotspotstext = imageitem.hotspots
+        %}{% assign hotspots = hotspotstext | split: "},{"
+        %}{% for fullhotspot in hotspots
+        %}
+        {%   assign hotspot = fullhotspot | split: '","'
+        %}{% assign hotspot = hotspot
+        %}{%   for pairstr in hotspot
+        %}{%     assign pair = pairstr | split: '":"'
+        %}{%     assign key = pair[0] | remove: '"' | remove: "[{"
+        %}{%     assign value = pair[1] | remove: '"' | remove: "}]" | url_decode 
+        %}{%     case key
+        %}{%       when "top" %}{% assign top = value
+        %}{%       when "left" %}{% assign left = value
+        %}{%       when "anchor" %}{% assign top = value | prepend: "#"
+        %}{%       when "override_link" %}{% assign url = value
+        %}{%       when "image" %}{% assign image = value
+        %}{%       when "title" %}{% assign title = value
+        %}{%       when "description" %}{% assign description = value | markdownify
+        %}{%     endcase 
+        %}{%   endfor %}
+        <a
+            href="{{ url | default: anchor }}"
+            class="hotspot"
+            style="top:{{ top }}; left:{{ left }};"
+            >
+            <div></div>
+        </a>{% unless url %}{% assign zoommodalimg = imageitem.image
+        %}{%     assign zoommodalid = imageitem.anchor
+        %}{%     include zoommodal.html
+        %}{%   endunless
+        %}{% endfor %}

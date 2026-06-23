@@ -1,0 +1,38 @@
+title: "The History of Firearms in Stamps"
+description: >- # this means to ignore newlines until "baseurl:"
+  A digital exhibition of stamps depicting scenes and
+  people from United States history, and the firearms
+  displayed therein.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+item_img_path: img/itemimgs
+
+carouselcaptions: true
+
+collections:
+  cases:
+    sort_by: order
+    output: true;
+  items:
+    sort_by: order
+    output: true;
+  carousel_images:
+    sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: "cases"
+    values:
+      layout: case
+  - scope:
+      path: ""
+      type: "items"
+    values:
+      layout: item

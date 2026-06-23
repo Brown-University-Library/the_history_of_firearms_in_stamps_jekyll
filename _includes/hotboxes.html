@@ -1,0 +1,24 @@
+        {% assign boxes = imageitem.boxes | split: "|" %}
+        {% for boxstring in boxes %}
+        {% assign box = boxstring | split: ':' %}
+        {% assign coords = box | first | split: ',' %}
+        {% assign top = coords | first %}
+        {% assign left = coords[1] %}
+        {% assign bottomnum = coords[2] | remove: "%" %}
+        {% assign bottom = 100 | minus: bottomnum | append: "%" %}
+        {% assign rightnum = coords[3] | remove: "%"%}
+        {% assign right = 100 | minus: rightnum | append: "%" %}
+        {% assign img = box[1] %}
+        {% assign anchor = box[2] %}
+        {% assign zoommodalalt = box[3] %}
+        <a
+            href="#{{ anchor }}"
+            class="hotbox"
+            style="top:{{ top }}; left:{{ left }}; bottom:{{ bottom }}; right:{{ right }};"
+            >
+            <div></div>
+        </a>
+        {% assign zoommodalimg = imageitem.image %}
+        {% assign zoommodalid = imageitem.anchor %}
+        {% include zoommodal.html %}
+        {% endfor %}

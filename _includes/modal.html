@@ -1,0 +1,19 @@
+{%- if modaldata %}{% assign modalid = modaldata.anchor %}{% endif -%}
+<aside
+    class="{% if modalclasses
+           %}{% for class in modalclasses
+           %}{{   class | append: " "
+           }}{% endfor
+         %}{% endif
+         %}modalcontainer"
+  id="{{ modalid }}"
+>
+  <div class="modal">
+    {% include modal_close.html %}
+    {% if modaldata %}{% include textmodal.html %}
+    {% else %}
+    {%- if modaltitle %}<h2 class="modaltitle">{{ modaltitle }}</h2>{% endif -%}
+    {{ modalcontent }}
+    {% endif %}
+  </div>
+</aside>

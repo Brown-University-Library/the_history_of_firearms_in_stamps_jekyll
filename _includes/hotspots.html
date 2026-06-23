@@ -1,0 +1,20 @@
+        {% assign hotspots = imageitem.hotspots | split: "|" %}
+        {% for fullhotspot in hotspots %}
+        {% assign hotspot = fullhotspot | split: ':' %}
+        {% assign coords = hotspot | first | split: ',' %}
+        {% assign top = coords | first %}
+        {% assign left = coords | last %}
+        {% assign img = hotspot[1] %}
+        {% assign anchor = hotspot[2] %}
+        {% assign zoommodalalt = hotspot[3] %}
+        <a
+            href="#{{ anchor }}"
+            class="hotspot"
+            style="top:{{ top }}; left:{{ left }};"
+            >
+            <div></div>
+        </a>
+        {% assign zoommodalimg = imageitem.image %}
+        {% assign zoommodalid = imageitem.anchor %}
+        {% include zoommodal.html %}
+        {% endfor %}

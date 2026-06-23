@@ -1,0 +1,16 @@
+{% assign srcsetimg = zoommodalimg %}
+{% include imgsrcset.html %}
+        <div class="modalcontainer" id="{{ zoommodalid }}">
+            <div class="extrazoom zoommodal">
+                <img
+                  srcset="{{ srcset }}"
+                  sizes="200vw"
+                  loading="lazy"
+                  alt="{{ page.image_alt_text | default: page.description | default: page.title | escape }}"
+                />
+                <div id="zoomlinkbox">
+                    {% for link in zoommodallinks %}{{ link }}{%endfor%}
+                    {% include modal_close.html %}
+                </div>
+            </div>
+        </div>
