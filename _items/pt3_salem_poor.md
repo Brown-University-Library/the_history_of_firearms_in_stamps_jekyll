@@ -3,11 +3,13 @@ objectid: pt3_salem_poor
 parentid: pt3
 order: 26
 layout: 
+is_carousel: 
 hide: 
 title: Salem Poor
 title_detailed: Salem Poor (Year of Issue 1975) Scott Number 1560
 list_title: Salem Poor
-image: pt3_The_American_Revolution_files/6554c9065fe66200192c29bd.png
+image: pt3_The_American_Revolution_files/6554c9065fe66200192c29bd.webp
+image_old: pt3_The_American_Revolution_files/6554c9065fe66200192c29bd.png
 img_alttext: A Black Patriot fighter refilled his muskets during battle while the Bunker Hill flag flies behind him. The words \"Contributors To The Cause\" hover next to the soldier.
 hotspots: 
 ---

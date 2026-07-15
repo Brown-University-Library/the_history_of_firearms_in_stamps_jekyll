@@ -3,11 +3,13 @@ objectid: pt3_white_plains
 parentid: pt3
 order: 21
 layout: 
+is_carousel: 
 hide: 
 title: White Plains
 title_detailed: "White Plains (Year of Issue 1926)\nScott Number 629"
 list_title: White Plains, 1776
-image: pt3_The_American_Revolution_files/6699183404d6c110fb216c0a.jpg
+image: pt3_The_American_Revolution_files/6699183404d6c110fb216c0a.webp
+image_old: pt3_The_American_Revolution_files/6699183404d6c110fb216c0a.jpg
 img_alttext: A soldier holds a cannon ball while another jams a rod down the barell of a canon. Two more soldiers work behind the canon. An American flag and a “Liberty of Death” flag line the bottom of the stamp.
 hotspots: 
 ---

@@ -3,11 +3,13 @@ objectid: pt3_militiaman_w_musket_powderhorn
 parentid: pt3
 order: 37
 layout: 
+is_carousel: 
 hide: 
 title: Militiaman w/musket & powderhorn
 title_detailed: Militiaman w/musket & powderhorn (Year of Issue 1975) Scott Number 1568
 list_title: Militiaman w/musket & powderhorn
-image: pt3_The_American_Revolution_files/6554cac21019c000191df893.png
+image: pt3_The_American_Revolution_files/6554cac21019c000191df893.webp
+image_old: pt3_The_American_Revolution_files/6554cac21019c000191df893.png
 img_alttext: A soldier of the continental army wears a slighty-worn long blue jacket, tan trousers, and a military-style hat. The soldier holds a musket in his hands. Behind the soldier is the image of a powder horn.
 hotspots: 
 ---

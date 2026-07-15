@@ -3,11 +3,13 @@ objectid: pt7_1945_victory_at_last
 parentid: pt7
 order: 91
 layout: 
+is_carousel: 1
 hide: 
 title: "1945: Victory at Last"
-title_detailed: 
+title_detailed: "1945: Victory at Last (Year of Issue 1995)\nScott Number 2981"
 list_title: "1945: Victory at Last"
-image: pt7_Global_Wars_files/656107e62327000019d8fc84.png
+image: pt7_Global_Wars_files/656107e62327000019d8fc84.webp
+image_old: pt7_Global_Wars_files/656107e62327000019d8fc84.png
 img_alttext: Stamps of various scenes from WWII, including the famous photo of a soldier kissing a nurse in the street, line a larger image of a world map depicting the battle scenes of the war.
 hotspots: 
 ---
@@ -35,7 +37,7 @@ automatically fire one shot per trigger press (like the semi-automatic Garand), 
 fire automatically, shooting bullets continuously as long as the trigger was held down (like
 the Thompson submachine gun).
 
-![Korean War-era U.S. M2 selective-fire carbine. The compact firearm features a dark walnut stock with a heavy fore-end, a parkerized receiver with an open bolt mechanism, a prominent curved 30-round detachable box magazine extending far below the receiver, and a cylindrical steel pronged flash hider attached over the muzzle tip.](../img/itemimgs/u_s_m2_selective_fire_carbine_w_flash_hider.jpg)
+![Korean War-era U.S. M2 selective-fire carbine. The compact firearm features a dark walnut stock with a heavy fore-end, a parkerized receiver with an open bolt mechanism, a prominent curved 30-round detachable box magazine extending far below the receiver, and a cylindrical steel pronged flash hider attached over the muzzle tip.](../img/itemimgs/u_s_m2_selective_fire_carbine_w_flash_hider.webp)
 
 The photo shows a selective fire arm of the Korean War, the [U.S. M2 selective fire carbine](https://www.nramuseum.org/guns/the-galleries/wwii,-korea,-vietnam-and-beyond-1940-to-present/case-41-korean-war-firearms/us-m2-selective-fire-carbine-w-flash-hider.aspx).
 Unusually, there is a flash hider on the front of this firearm. By dispersing the bright muzzle

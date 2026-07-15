@@ -3,11 +3,13 @@ objectid: pt6_annie_oakley
 parentid: pt6
 order: 82
 layout: 
+is_carousel: 
 hide: 
 title: Annie Oakley
 title_detailed: "Annie Oakley (Year of Issue 1994)\nScott Number 2869d"
 list_title: Annie Oakley
-image: pt6_Westward_ho_files/6560c6e79c603c0019008c23.png
+image: pt6_Westward_ho_files/6560c6e79c603c0019008c23.webp
+image_old: pt6_Westward_ho_files/6560c6e79c603c0019008c23.png
 img_alttext: Annie Oakley holds the barrel of a rifle in her right hand as she stands tall, her dress and hat pristinely clean and her hair neat.
 hotspots: 
 ---
@@ -27,7 +29,7 @@ stamp, however, is an over-and-under double-barreled
 shotgun, as shown by the small front sight near the muzzle
 of the upper barrel.
 
-![Annie Oakley's custom Remington-Beals single-shot rifle. The historic firearm features a very long, slender dark octagonal barrel, an engraved brass frame, a curved finger-lever trigger guard, and a smooth dark walnut buttstock with a crescent metal buttplate.](../img/itemimgs/annie_oakley_s_remington_beals_rifle.jpg)
+![Annie Oakley's custom Remington-Beals single-shot rifle. The historic firearm features a very long, slender dark octagonal barrel, an engraved brass frame, a curved finger-lever trigger guard, and a smooth dark walnut buttstock with a crescent metal buttplate.](../img/itemimgs/annie_oakley_s_remington_beals_rifle.webp)
 
 The photo shows [Annie Oakley’s Remington Beals rifle](https://www.nramuseum.org/guns/the-galleries/the-american-west-1850-to-1900/case-21-tin-stars-sixguns-frontier-justice/annie-oakley%27s-remington-beals-rifle.aspx),
 which today is part of the collection of the NRA National

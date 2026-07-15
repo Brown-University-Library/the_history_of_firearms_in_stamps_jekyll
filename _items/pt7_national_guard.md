@@ -3,12 +3,14 @@ objectid: pt7_national_guard
 parentid: pt7
 order: 105
 layout: 
+is_carousel: 
 hide: 
 title: National Guard
-title_detailed: 
-list_title: National Guard
-image: pt7_Global_Wars_files/66a90dad3a527ce82a49cc0f.jpg
-img_alttext: 
+title_detailed: "National Guard (Year of Issue 1953)\nScott Number 1017"
+list_title: 
+image: pt7_Global_Wars_files/66a90dad3a527ce82a49cc0f.webp
+image_old: pt7_Global_Wars_files/66a90dad3a527ce82a49cc0f.jpg
+img_alttext: Monochrome blue lithograph stamp reading \"THE NATIONAL GUARD OF THE U.S. - IN WAR - IN PEACE - THE OLDEST MILITARY ORGANIZATION IN THE U.S. - 3¢ POSTAGE\" and featuring a soldier holding a rifle in front of a modern battle scene and a flood rescue scene
 hotspots: 
 ---
 This stamp declares the National Guard to be “The oldest military organization in the U.S.A.” The oldest American military organizations were the militias of the colonies, and so the Guard was claiming descent from them, in a moral sense.

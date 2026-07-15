@@ -3,11 +3,13 @@ objectid: pt7_vietnam_war
 parentid: pt7
 order: 106
 layout: 
+is_carousel: 
 hide: 
 title: Vietnam War
 title_detailed: "Vietnam War (Year of Issue 1999)\nScott Number 3188g"
-list_title: Vietnam War
-image: pt7_Global_Wars_files/65b900f795241c00185a5cdc.png
+list_title: 
+image: pt7_Global_Wars_files/65b900f795241c00185a5cdc.webp
+image_old: pt7_Global_Wars_files/65b900f795241c00185a5cdc.png
 img_alttext: A group of American soldiers jump out of a helicopter as it hovers above the ground. On the ground, one soldier runs into the foreground. Still on the helicopter, three soldiers prepare to leap to the ground.
 hotspots: 
 ---
@@ -37,7 +39,7 @@ AR platform have become the most popular firearm in American history, and now co
 in a typical year. They are loww recail, easy to handle, ergonomically excellent, and highly customizable. Howeer, their
 bullets are so small that some states do not allow them for hunting deer or larger game.
 
-![Early 1960s Colt AR-15 semi-automatic rifle. The historic combat firearm features a signature triangular polymer handguard, a slab-sided aluminum lower receiver, a fixed black synthetic stock, a straight-sided carrying handle integrated into the upper receiver, a three-pronged "duckbill" flash suppressor at the muzzle, and a short 20-round steel box magazine.](../img/itemimgs/colt_ar_15_semi_automatic_rifle.jpg)
+![Early 1960s Colt AR-15 semi-automatic rifle. The historic combat firearm features a signature triangular polymer handguard, a slab-sided aluminum lower receiver, a fixed black synthetic stock, a straight-sided carrying handle integrated into the upper receiver, a three-pronged "duckbill" flash suppressor at the muzzle, and a short 20-round steel box magazine.](../img/itemimgs/colt_ar_15_semi_automatic_rifle.webp)
 
 In the early years, AR-15 and M16 were used interchangeably, although popular usage eventually settled on M16 for the
 selective fire rifle, and [AR-15](https://www.nramuseum.org/guns/the-galleries/wwii,-korea,-vietnam-and-beyond-1940-to-present/case-42-guns-of-vietnam-and-desert-storm/colt-ar-15-semi-automatic-rifle.aspx) for the semi-automatic only. The two firearms appear almost identical on the outside,

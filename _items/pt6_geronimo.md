@@ -3,11 +3,13 @@ objectid: pt6_geronimo
 parentid: pt6
 order: 79
 layout: 
+is_carousel: 
 hide: 
 title: Geronimo
 title_detailed: Geronimo (Year of Issue 1994) Scott Number 2869m
 list_title: Geronimo
-image: pt6_Westward_ho_files/6560c9d10a708e0019b93894.png
+image: pt6_Westward_ho_files/6560c9d10a708e0019b93894.webp
+image_old: pt6_Westward_ho_files/6560c9d10a708e0019b93894.png
 img_alttext: Geronimo holds a rifle across his body while grimacing in front of a natural and lush lanscape.
 hotspots: 
 ---
@@ -25,7 +27,7 @@ The renowned warrior became a national celebrity, and rode in President Theodore
 Roosevelt’s 1904 inaugural parade. Shortly before his death in 1909, he expressed
 regret at not fighting to the death.
 
-![U.S. Springfield Model 1873 trapdoor cavalry carbine. The firearm features a short 22-inch blued barrel with a single barrel band, a walnut stock extending halfway up the barrel, a case-hardened breech-loading "trapdoor" mechanism with an external hammer, and a steel saddle ring bar mounted on the left side.](../img/itemimgs/u_s_springfield_model_1873_1879_trapdoor_carbine_1_.jpg)
+![U.S. Springfield Model 1873 trapdoor cavalry carbine. The firearm features a short 22-inch blued barrel with a single barrel band, a walnut stock extending halfway up the barrel, a case-hardened breech-loading "trapdoor" mechanism with an external hammer, and a steel saddle ring bar mounted on the left side.](../img/itemimgs/u_s_springfield_model_1873_1879_trapdoor_carbine_1_.webp)
 
 While most Indians and most Americans of the period preferred repeating rifles,
 Geronimo chose the same rif le as the U.S. Army ; the stamp shows him with a single-

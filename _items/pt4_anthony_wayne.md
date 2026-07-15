@@ -3,11 +3,13 @@ objectid: pt4_anthony_wayne
 parentid: pt4
 order: 55
 layout: 
+is_carousel: 
 hide: 
 title: Anthony Wayne
 title_detailed: Anthony Wayne (Year of Issue 1929) Scott Number 680
 list_title: Anthony Wayne
-image: pt4_A_vigorous_and_growing_nation_files/6699336b04d6c110fb241923.jpg
+image: pt4_A_vigorous_and_growing_nation_files/6699336b04d6c110fb241923.webp
+image_old: pt4_A_vigorous_and_growing_nation_files/6699336b04d6c110fb241923.jpg
 img_alttext: General Wayne wears an elaborate military uniform in the center of the stamp. The figure on the right wears a simpler uniform and carries a musket. A Native American stands to the left, holding a rod across his body.
 hotspots: 
 ---

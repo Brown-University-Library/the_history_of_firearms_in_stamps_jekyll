@@ -3,11 +3,13 @@ objectid: pt4_davy_crockett
 parentid: pt4
 order: 58
 layout: 
+is_carousel: 
 hide: 
 title: Davy Crockett
 title_detailed: Davy Crockett (Year of Issue 1967) Scott Number 1330
 list_title: Davy Crockett
-image: pt4_A_vigorous_and_growing_nation_files/6554dd208cf45e0019aa1b96.png
+image: pt4_A_vigorous_and_growing_nation_files/6554dd208cf45e0019aa1b96.webp
+image_old: pt4_A_vigorous_and_growing_nation_files/6554dd208cf45e0019aa1b96.png
 img_alttext: Davy Crockett holds a rife across his side, so that the barell extend behind him. He wears a cookskin cap and stands in front of a group of trees.
 hotspots: 
 ---
@@ -19,6 +21,6 @@ Crockett wears a coonskin cap, the iconic hat of the American  frontiersman. Coo
 
 In 1835, Crockett went to Texas to help that new nation fight for its  independence from the Mexican military dictator Santa Anna. He died  defending the Alamo, on Mar. 6, 1836.
 
-![19th-century J. & W. H. Moll percussion long rifle featuring a slender, tiger-striped maple full-stock extending to the muzzle, a long dark iron barrel, brass furniture including the trigger guard and buttplate, and an intricate, polished metal lock mechanism.](../img/itemimgs/j_w_h_moll_allentown_pa_pennsylvania_kentucky_percussion_long_rifle.jpg)
+![19th-century J. & W. H. Moll percussion long rifle featuring a slender, tiger-striped maple full-stock extending to the muzzle, a long dark iron barrel, brass furniture including the trigger guard and buttplate, and an intricate, polished metal lock mechanism.](../img/itemimgs/j_w_h_moll_allentown_pa_pennsylvania_kentucky_percussion_long_rifle.webp)
 
 The photo is [Davy Crockett’s rifle](https://www.nramuseum.org/the-museum/the-galleries/the-prospering-new-republic/case-29-the-rifle-shop-and-the-plains-rifle/j-w-h-moll-(allentown,-pa)-pennsylvaniakentucky-percussion-long-rifle.aspx).

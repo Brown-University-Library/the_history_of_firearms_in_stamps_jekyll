@@ -3,11 +3,13 @@ objectid: pt3_dc_french_minute_man
 parentid: pt3
 order: 18
 layout: 
+is_carousel: 
 hide: 
 title: "DC French: Minute Man"
 title_detailed: "DC French: Minute Man (Year of Issue 1925) Scott Number 619"
 list_title: "DC French: Minute Man, 1775"
-image: pt3_The_American_Revolution_files/6554c71d75769e00199866b2.png
+image: pt3_The_American_Revolution_files/6554c71d75769e00199866b2.webp
+image_old: pt3_The_American_Revolution_files/6554c71d75769e00199866b2.png
 img_alttext: An American Minute Man holds a musket at his right hip while he stands on a pedestal. Crossed muskets and neoclassical columns line the border of the stamp.
 hotspots: 
 ---

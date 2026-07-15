@@ -3,11 +3,13 @@ objectid: pt4_sam_houston
 parentid: pt4
 order: 48
 layout: 
+is_carousel: 
 hide: 
 title: Sam Houston
 title_detailed: Sam Houston (Year of Issue 1964) Scott Number 1242
 list_title: Sam Houston
-image: pt4_A_vigorous_and_growing_nation_files/6554de468cf45e0019aa1fc6.png
+image: pt4_A_vigorous_and_growing_nation_files/6554de468cf45e0019aa1fc6.webp
+image_old: pt4_A_vigorous_and_growing_nation_files/6554de468cf45e0019aa1fc6.png
 img_alttext: Sam Houston wears a long jacket, a cowboy hat, and blue jeans. He has a long gun propped in his hand.
 hotspots: 
 ---
@@ -17,6 +19,6 @@ When Texas joined the United States in 1845, Sam Houston  became one of the stat
 
 Returning to the Texas governorship in 1859, he opposed  secession from the Union, and did his best, unsuccessfully, to  keep Texas from joining the Confederate States of America.
 
-![Flintlock pistol prop used by Dennis Quaid in the 2004 movie The Alamo. Features a dark wood stock, a light silver metal barrel and lock mechanism, and a brass trigger guard and accents.](../img/itemimgs/the_alamo_2004_pistol.jpg)
+![Flintlock pistol prop used by Dennis Quaid in the 2004 movie The Alamo. Features a dark wood stock, a light silver metal barrel and lock mechanism, and a brass trigger guard and accents.](../img/itemimgs/the_alamo_2004_pistol.webp)
 
 On the stamp, his short-barreled firearm is a classic Plains Rifle  (described on the next slide). The photo shows a [reproduction of his flintlock pistol](https://www.nramuseum.org/guns/the-galleries/hollywood-guns/war-movies/the-alamo-(2004)-pistol.aspx), as depicted in the 2004 movie “The Alamo.”

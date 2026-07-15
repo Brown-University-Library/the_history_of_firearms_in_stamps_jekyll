@@ -3,11 +3,13 @@ objectid: pt3_shot_heard_round_the_world
 parentid: pt3
 order: 32
 layout: 
+is_carousel: 
 hide: 
 title: Shot heard round the world
 title_detailed: Shot heard round the world (Year of Issue 1999) Scott Number 3187c
 list_title: Shot heard round the world, 1951
-image: pt3_The_American_Revolution_files/6554c7e08cf45e0019a9ae2b.png
+image: pt3_The_American_Revolution_files/6554c7e08cf45e0019a9ae2b.webp
+image_old: pt3_The_American_Revolution_files/6554c7e08cf45e0019a9ae2b.png
 img_alttext: A baseball soars above a New York Giants game versus the Brooklyn Dodgers. The Dodgers' players all turn to watch the baseball as a Giants player runs from third base to home plate.
 hotspots: 
 ---

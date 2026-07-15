@@ -1,13 +1,15 @@
 ---
-objectid: pt7_world_war_ii_map_1942
+objectid: pt7_1942_into_the_battle
 parentid: pt7
 order: 87
 layout: 
+is_carousel: 1
 hide: 
-title: World War II Map 1942
-title_detailed: "World War II map 1942 (Year of Issue 1992)\nScott number 2697"
-list_title: World War II map 1942
-image: pt7_Global_Wars_files/6560e4852327000019d633c1.png
+title: "1942: Into The Battle"
+title_detailed: "1942: Into The Battle (Year of Issue 1992)\nScott number 2697"
+list_title: "1942: Into The Battle"
+image: pt7_Global_Wars_files/6560e4852327000019d633c1.webp
+image_old: pt7_Global_Wars_files/6560e4852327000019d633c1.png
 img_alttext: "U.S. 29-cent postage stamp souvenir sheet commemorating the 50th Anniversary of WWII. The center features a world map with the text \"1942: into the Battle,\" accompanied by five stamps above and below, depicting various scenes from war and related activities."
 hotspots: 
 ---

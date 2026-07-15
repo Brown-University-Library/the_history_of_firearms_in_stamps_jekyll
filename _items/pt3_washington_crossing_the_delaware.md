@@ -3,12 +3,14 @@ objectid: pt3_washington_crossing_the_delaware
 parentid: pt3
 order: 35
 layout: 
+is_carousel: 
 hide: 
 title: Washington Crossing the Delaware
 title_detailed: Washington Crossing the Delaware (Year of Issue 1976) Scott Number 1688 
 list_title: Washington Crossing the Delaware, Christmas Eve, 1776
-image: pt3_The_American_Revolution_files/6554ce0775769e0019988b6d.png
-img_alttext: Four miniature depictions of paintings by Emanuel Leutze that capture different scenes from the Revolutionary war.
+image: pt3_The_American_Revolution_files/6554ce0775769e0019988b6d.webp
+image_old: pt3_The_American_Revolution_files/6554ce0775769e0019988b6d.png
+img_alttext: "Painting of Washington and his men crossing the Delaware River, with 5 cutouts to make stamps: a man rowing, washington, two men hoisting the flag, some men crouched with hands on hats, and a man rowing with rearing horses behind him."
 hotspots: 
 ---
 The sheet reproduces the famous 1851 painting by Emanuel Leutze. Within the sheets are five individual postage stamps.

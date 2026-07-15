@@ -3,11 +3,13 @@ objectid: pt3_bennington_green_mtn_boy
 parentid: pt3
 order: 40
 layout: 
+is_carousel: 
 hide: 
 title: Bennington. Green Mtn. Boy
 title_detailed: "Bennington. Green Mtn. Boy (Year of Issue 1927)\nScott Number 643"
 list_title: Bennington. Green Mtn. Boy
-image: pt3_The_American_Revolution_files/66982d54feb9ff871e8f0ae0.jpg
+image: pt3_The_American_Revolution_files/66982d54feb9ff871e8f0ae0.webp
+image_old: pt3_The_American_Revolution_files/66982d54feb9ff871e8f0ae0.jpg
 img_alttext: A Green Mountain boy stands with a shoulder-height firearm in his hand in front of a cluster of trees. He wears a long, closed jacket and has two small bags that create an X-shape on his chest. 
 hotspots: 
 ---

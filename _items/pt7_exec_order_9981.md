@@ -3,11 +3,13 @@ objectid: pt7_exec_order_9981
 parentid: pt7
 order: 103
 layout: 
+is_carousel: 
 hide: 
 title: Exec. Order 9981
 title_detailed: Exec. Order 9981 (deseg. Military) (Year of Issue 2005) Scott Number 3937a
-list_title: Exec. Order 9981
-image: pt7_Global_Wars_files/65b8ffa6167f8d0019a8433d.png
+list_title: 
+image: pt7_Global_Wars_files/65b8ffa6167f8d0019a8433d.webp
+image_old: pt7_Global_Wars_files/65b8ffa6167f8d0019a8433d.png
 img_alttext: Eleven Black soldiers stand at attention in front of a nondescript building and a mountain range. Three American flags surround the soldiers.
 hotspots: 
 ---

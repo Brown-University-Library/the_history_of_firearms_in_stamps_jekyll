@@ -3,11 +3,13 @@ objectid: pt4_delaware_ratifies_constitution
 parentid: pt4
 order: 54
 layout: 
+is_carousel: 
 hide: 
 title: Delaware ratifies constitution
 title_detailed: Delaware ratifies constitution (Year of Issue 1987) Scott Number 2336
 list_title: Delaware ratifies constitution, July 4, 1787
-image: pt4_A_vigorous_and_growing_nation_files/6554d6718cf45e0019a9fdba.png
+image: pt4_A_vigorous_and_growing_nation_files/6554d6718cf45e0019a9fdba.webp
+image_old: pt4_A_vigorous_and_growing_nation_files/6554d6718cf45e0019a9fdba.png
 img_alttext: Two figures hold a seal depicting a cow walking on a green field. The figure on the left holds a canein their right hand and a sailboat model in his left, positioned aboce the seal. The figure on the right holds a long rifle in his left hand.
 hotspots: 
 ---

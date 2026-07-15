@@ -3,11 +3,13 @@ objectid: pt7_bill_mauldin
 parentid: pt7
 order: 88
 layout: 
+is_carousel: 
 hide: 
 title: Bill Mauldin
 title_detailed: Bill Mauldin (Year of Issue 2010) Scott Number 4445
 list_title: Bill Mauldin
-image: pt7_Global_Wars_files/6560e60b0a708e0019babe93.png
+image: pt7_Global_Wars_files/6560e60b0a708e0019babe93.webp
+image_old: pt7_Global_Wars_files/6560e60b0a708e0019babe93.png
 img_alttext: A photo-realistic soldier writes in a book with a smirk on his face while watching a cartoon depiction of two soldiers with cigaretts look at one another while pointing back at him.
 hotspots: 
 ---
@@ -26,7 +28,7 @@ soldiers during the war, as part of rations. Heavy smoking is bad
 for health in the long run, but in the short run nicotine helps the
 body resist fatigue and promotes calm and mental alertness.
 
-![the top-loading action of the m1 garand. long sharp-tipped bullets are loaded into a metal holder which slides into the top of the rifle](../img/itemimgs/m1garand.jpg)
+![the top-loading action of the m1 garand. long sharp-tipped bullets are loaded into a metal holder which slides into the top of the rifle](../img/itemimgs/m1garand.webp)
 
 The semiauto rifle that became the standard infantry rifle was the
 [M1 Garand](https://www.nramuseum.org/guns/the-galleries/wwii,-korea,-vietnam-and-beyond-1940-to-present/case-39-wwii-the-united-states/us-springfield-m1-garand-semi-automatic-rifle.aspx). In 1945, General George S. Patton would laud it as

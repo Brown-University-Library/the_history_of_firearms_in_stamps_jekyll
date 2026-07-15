@@ -1,6 +1,6 @@
 ---
 objectid: pt7
-order: 8
+order: 7
 title: Part 7. Global Wars
 layout: 
 slug: global_wars

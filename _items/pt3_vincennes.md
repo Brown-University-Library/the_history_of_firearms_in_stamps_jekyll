@@ -3,11 +3,13 @@ objectid: pt3_vincennes
 parentid: pt3
 order: 42
 layout: 
+is_carousel: 
 hide: 
 title: Vincennes
 title_detailed: Vincennes (Year of issue 1929). Scott number 651
 list_title: Vincennes, 1779
-image: pt3_The_American_Revolution_files/6554d2de75769e001998ac09.png
+image: pt3_The_American_Revolution_files/6554d2de75769e001998ac09.webp
+image_old: pt3_The_American_Revolution_files/6554d2de75769e001998ac09.png
 img_alttext: 1929 U.S. 2-cent stamp commemorating Georgeg Rogers Clark. Shows surrender at Vincennes in 1779, with soldiers and buildings in background.
 hotspots: 
 ---

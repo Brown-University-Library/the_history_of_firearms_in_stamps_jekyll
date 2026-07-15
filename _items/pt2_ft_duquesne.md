@@ -3,11 +3,13 @@ objectid: pt2_ft_duquesne
 parentid: pt2
 order: 14
 layout: 
+is_carousel: 
 hide: 
 title: Ft. Duquesne
 title_detailed: Ft. Duquesne (Year of Issue 1958) Scott Number 1123
 list_title: Ft. Duquesne. 1758
-image: pt2_The_Age_of_Immigration_files/6554c1878cf45e0019a97942.png
+image: pt2_The_Age_of_Immigration_files/6554c1878cf45e0019a97942.webp
+image_old: pt2_The_Age_of_Immigration_files/6554c1878cf45e0019a97942.png
 img_alttext: A group of American soldiers on horses lift their hats off of their heads to salute another group of soldiers in celebration. Fort Duquesne is on fire behind the soldiers, having just been captured by the Americans.
 hotspots: 
 ---
@@ -19,6 +21,6 @@ Whereas the bore (the interior of the barrel) of musket is smooth, a rifle bore 
 
 Compared to a Brown Bess musket, the Pennsylvania-Kentucky rifle was more  difficult to manufacture, slower to reload, longer (and hence more accurate at  distance), lower caliber, and lighter weight. It was superb for the conditions of  the American forest.
 
-![Muzzle-loading firearm features a slender, dark wooden full-stock, a long octagonal iron barrel, and a traditional flintlock ignition mechanism on the right side, fitted with simple brass mountings, including the trigger guard, ramrod pipes, and a plain metallic patch-box built into the right side of the buttstock.](../img/itemimgs/j_graeff_flintlock_rifle.jpg)
+![Muzzle-loading firearm features a slender, dark wooden full-stock, a long octagonal iron barrel, and a traditional flintlock ignition mechanism on the right side, fitted with simple brass mountings, including the trigger guard, ramrod pipes, and a plain metallic patch-box built into the right side of the buttstock.](../img/itemimgs/j_graeff_flintlock_rifle.webp)
 
 Whereas rifles had never been popular in England, the [American Long Rifle](https://www.nramuseum.org/guns/the-galleries/a-prospering-new-republic-1780-to-1860/case-8-romance-of-the-long-rifle/j-graeff-flintlock-rifle.aspx) became the first iconic American firearm. 

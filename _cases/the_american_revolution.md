@@ -1,6 +1,6 @@
 ---
 objectid: pt3
-order: 4
+order: 3
 title: Part 3. The American Revolution
 layout: 
 slug: the_american_revolution

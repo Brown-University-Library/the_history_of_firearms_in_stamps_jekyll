@@ -3,11 +3,13 @@ objectid: pt7_w_eugene_smith_photo_frontline_soldier_saipan
 parentid: pt7
 order: 101
 layout: 
+is_carousel: 
 hide: 
 title: W. Eugene Smith photo. Frontline soldier, Saipan
 title_detailed: "W. Eugene Smith photo. Frontline soldier, Saipan (Year of Issue 2002)\nScott Number 3649n"
 list_title: W. Eugene Smith photo. Frontline soldier, Saipan
-image: pt7_Global_Wars_files/66a3d09bb8e238273d81c1de.jpg
+image: pt7_Global_Wars_files/66a3d09bb8e238273d81c1de.webp
+image_old: pt7_Global_Wars_files/66a3d09bb8e238273d81c1de.jpg
 img_alttext: A soldier covered in dirt croches down to drink from a canteen. A second soldier stands guard behind the first soldier, looking to his left.
 hotspots: 
 ---

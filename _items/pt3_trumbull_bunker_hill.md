@@ -3,11 +3,13 @@ objectid: pt3_trumbull_bunker_hill
 parentid: pt3
 order: 19
 layout: 
+is_carousel: 
 hide: 
 title: "Trumbull: Bunker Hill"
 title_detailed: "Trumbull: Bunker Hill (Year of Issue 1975) Scott Number 1564"
 list_title: "Trumbull: Bunker Hill, June 17, 1775"
-image: pt3_The_American_Revolution_files/6554c82f75769e0019986990.png
+image: pt3_The_American_Revolution_files/6554c82f75769e0019986990.webp
+image_old: pt3_The_American_Revolution_files/6554c82f75769e0019986990.png
 img_alttext: Dr Joseph Warren, the American commanding officer at Bunker Hill, lays on the ground, supported by one of his soldiers as he dies. The Patriots raise a flag above the fighting as the British and Americans continue warring.
 hotspots: 
 ---
@@ -17,6 +19,6 @@ The stamp’s beautiful reproduction of a painting by Jonathan  Trumbull demonst
 
 The scene depicted is the death of Dr. Joseph Warren--an ardent  Patriot leader who served as a commanding officer at Bunker Hill.
 
-![A long flintlock with a dark heel with a carved lobe shape, creating an effect that the grip's narrow stick continues deep into the heel](../img/itemimgs/french_model_1765_cassagnard_flintlock_fusil.jpg)
+![A long flintlock with a dark heel with a carved lobe shape, creating an effect that the grip's narrow stick continues deep into the heel](../img/itemimgs/french_model_1765_cassagnard_flintlock_fusil.webp)
 
 The firearm is a [French Model 1765 Cassagnard Flintlock Fusil](https://www.nramuseum.org/guns/the-galleries/road-to-american-liberty-1700-to-1780/case-4-shot-heard-round-the-world/french-model-1765-cassagnard-flintlock-fusil.aspx).  After King George III embargoed firearms shipments to America in  1774, Americans began importing smuggled firearms from France, Spain, and the Dutch Republic. During the American  Revolution, the French supplied many firearms to the Americans – at first covertly, and then openly after the 1778 creation of the  Franco-American alliance.

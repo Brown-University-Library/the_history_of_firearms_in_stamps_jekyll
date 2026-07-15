@@ -3,11 +3,13 @@ objectid: pt3_crispus_attucks
 parentid: pt3
 order: 39
 layout: 
+is_carousel: 
 hide: 
 title: Crispus Attucks
 title_detailed: Cripus Attucks (Year of Issue 1775) Scott Number Grenada 629
 list_title: Crispus Attucks, March 5, 1770
-image: pt3_The_American_Revolution_files/6554cc468cf45e0019a9bd42.png
+image: pt3_The_American_Revolution_files/6554cc468cf45e0019a9bd42.webp
+image_old: pt3_The_American_Revolution_files/6554cc468cf45e0019a9bd42.png
 img_alttext: Crispus Attucks stands at the end of a British Soldier's gun, as the sword impales him. To the left of the scene is a close-up image of Crispus Attucks' face.
 hotspots: 
 ---

@@ -3,11 +3,13 @@ objectid: pt3_loading_muskets
 parentid: pt3
 order: 38
 layout: 
+is_carousel: 
 hide: 
 title: Loading muskets
 title_detailed: Loading muskets (Year of Issue 1976) Scott Number Grenada 718
 list_title: Loading muskets
-image: pt3_The_American_Revolution_files/6554cb5675769e00199874f9.png
+image: pt3_The_American_Revolution_files/6554cb5675769e00199874f9.webp
+image_old: pt3_The_American_Revolution_files/6554cb5675769e00199874f9.png
 img_alttext: Three militiamen from the American Revolution wear diverse uniforms. The two militiamen in the back stand upright, refilling their muskets. The militiaman in front crouches to the ground, searching for where to aim his gun.
 hotspots: 
 ---

@@ -3,11 +3,13 @@ objectid: pt4_overland_mail_stagecoach
 parentid: pt4
 order: 51
 layout: 
+is_carousel: 
 hide: 
 title: Overland Mail. Stagecoach
 title_detailed: "Overland Mail. Stagecoach (Year of Issue 1958) Scott Number 1120\n"
 list_title: Overland Mail. Stagecoach
-image: pt4_A_vigorous_and_growing_nation_files/66a14ddab8e238273d5293e2.jpg
+image: pt4_A_vigorous_and_growing_nation_files/66a14ddab8e238273d5293e2.webp
+image_old: pt4_A_vigorous_and_growing_nation_files/66a14ddab8e238273d5293e2.jpg
 img_alttext: A coach driver struggles to control four galloping horses while the other man on the coach saims his firearm behind the coach. Behind the scene is a map of the United States.
 hotspots: 
 ---

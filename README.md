@@ -1,7 +1,7 @@
-# A Pictorial Dragon: The Work of Fernando Birri - Jekyll
+# The History of Firearms in Stamps - Jekyll
 
 This is the static site generation repo for the Brown
-University Library Birri exhibit.
+University Library History of Firearms in Stamps exhibit.
 
 ## Build process
 

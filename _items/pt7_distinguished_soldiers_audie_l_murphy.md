@@ -3,11 +3,13 @@ objectid: pt7_distinguished_soldiers_audie_l_murphy
 parentid: pt7
 order: 86
 layout: 
+is_carousel: 
 hide: 
 title: Distinguished soldiers, Audie L. Murphy
 title_detailed: Distinguished soldiers, Audie L. Murphy - Scott number 3396
 list_title: Distinguished soldiers, Audie L. Murphy
-image: pt7_Global_Wars_files/6560e2cda84d8f00195b38fd.png
+image: pt7_Global_Wars_files/6560e2cda84d8f00195b38fd.webp
+image_old: pt7_Global_Wars_files/6560e2cda84d8f00195b38fd.png
 img_alttext: U.S. postage 33-cent stamp with portrait of Audie L. Murphy in military uniform with medals and American flag in the background. Part of the Distinguished Soldiers stamp series.
 hotspots: 
 ---
@@ -24,7 +26,7 @@ was a best-seller for 14 weeks. He died in a small plane crash in 1971 and was b
 
 Murphy inspired patriotism and promoted Army recruitment. In Vietnam, when an American soldier was particularly brave, his fellows would call him “a real Audie Murphy.”
 
-![custom Winchester Model 1892 lever-action carbine. The movie prop firearm features a dramatically oversized, teardrop-shaped "large loop" operating lever, a short carbine-length barrel with a full magazine tube, a dark receiver, a satin-finished walnut fore-end, and a walnut buttstock custom-ground with a narrowed comb.](../img/itemimgs/various_films_1948_1969_.jpg)
+![custom Winchester Model 1892 lever-action carbine. The movie prop firearm features a dramatically oversized, teardrop-shaped "large loop" operating lever, a short carbine-length barrel with a full magazine tube, a dark receiver, a satin-finished walnut fore-end, and a walnut buttstock custom-ground with a narrowed comb.](../img/itemimgs/various_films_1948_1969_.webp)
 
 After returning from war, Murphy became a movie star, appearing in 44 films, most of them Westerns. In many of the films, he carries
 this [custom Colt Single-Action Army revolver](https://www.nramuseum.org/guns/the-galleries/hollywood-guns/westerns/various-films-%281948-1969%29.aspx). The hammer was modified to allow Murphy to fire the gun faster.

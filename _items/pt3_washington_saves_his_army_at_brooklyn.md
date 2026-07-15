@@ -3,11 +3,13 @@ objectid: pt3_washington_saves_his_army_at_brooklyn
 parentid: pt3
 order: 34
 layout: 
+is_carousel: 
 hide: 
 title: Washington Saves His Army at Brooklyn
 title_detailed: Washington Saves Army at Brooklyn (Year of Issue 1951) Scott Number 1003
 list_title: Washington Saves His Army at Brooklyn, 1776
-image: pt3_The_American_Revolution_files/6554cc8f5fe66200192c3896.png
+image: pt3_The_American_Revolution_files/6554cc8f5fe66200192c3896.webp
+image_old: pt3_The_American_Revolution_files/6554cc8f5fe66200192c3896.png
 img_alttext: George Washington sits on a horse with his hand extended, pointing ahead of him. Soldiers stand in straight lines to his left, and a harbor ships wait in the harbor behind him.
 hotspots: 
 ---

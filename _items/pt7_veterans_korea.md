@@ -3,11 +3,13 @@ objectid: pt7_veterans_korea
 parentid: pt7
 order: 92
 layout: 
+is_carousel: 
 hide: 
 title: Veterans Korea
 title_detailed: "Veterans Korea (Year of Issue 1985)\nScott Number 2152"
 list_title: Veterans Korea
-image: pt7_Global_Wars_files/65b8ffeedabed1001902e7be.png
+image: pt7_Global_Wars_files/65b8ffeedabed1001902e7be.webp
+image_old: pt7_Global_Wars_files/65b8ffeedabed1001902e7be.png
 img_alttext: A group of soldiers during the Korean war march in a line between two hills. The first soldier in the line carries a rifle as he looks back to the rest of the soldiers.
 hotspots: 
 ---
@@ -35,7 +37,7 @@ automatically fire one shot per trigger press (like the semi-automatic Garand), 
 fire automatically, shooting bullets continuously as long as the trigger was held down (like
 the Thompson submachine gun).
 
-![Korean War-era U.S. M2 selective-fire carbine. The compact firearm features a dark walnut stock with a heavy fore-end, a parkerized receiver with an open bolt mechanism, a prominent curved 30-round detachable box magazine extending far below the receiver, and a cylindrical steel pronged flash hider attached over the muzzle tip.](../img/itemimgs/u_s_m2_selective_fire_carbine_w_flash_hider.jpg)
+![Korean War-era U.S. M2 selective-fire carbine. The compact firearm features a dark walnut stock with a heavy fore-end, a parkerized receiver with an open bolt mechanism, a prominent curved 30-round detachable box magazine extending far below the receiver, and a cylindrical steel pronged flash hider attached over the muzzle tip.](../img/itemimgs/u_s_m2_selective_fire_carbine_w_flash_hider.webp)
 
 The photo shows a selective fire arm of the Korean War, the [U.S. M2 selective fire carbine](https://www.nramuseum.org/guns/the-galleries/wwii,-korea,-vietnam-and-beyond-1940-to-present/case-41-korean-war-firearms/us-m2-selective-fire-carbine-w-flash-hider.aspx).
 Unusually, there is a flash hider on the front of this firearm. By dispersing the bright muzzle

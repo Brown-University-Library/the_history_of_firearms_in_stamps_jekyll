@@ -3,11 +3,13 @@ objectid: pt2_daniel_boone
 parentid: pt2
 order: 10
 layout: 
+is_carousel: 
 hide: 
 title: Daniel Boone
 title_detailed: Daniel Boone (Year of Issue 1968) Scott Number 1357
 list_title: Daniel Boone
-image: pt2_The_Age_of_Immigration_files/6554c2395fe66200192bfbe0.png
+image: pt2_The_Age_of_Immigration_files/6554c2395fe66200192bfbe0.webp
+image_old: pt2_The_Age_of_Immigration_files/6554c2395fe66200192bfbe0.png
 img_alttext: A gun rests on a stand against a wood-grain wall. An axe, knife, and horn hand below the gun, surrounding the words \"Daniel Boone, 1734.\" A sign is also hung on the wall, which reads, \"United States 6c Postage.\"
 hotspots: 
 ---

@@ -1,6 +1,6 @@
 ---
 objectid: pt1
-order: 2
+order: 1
 title: Part 1. The Age of Exploration
 layout: 
 slug: the_age_of_exploration

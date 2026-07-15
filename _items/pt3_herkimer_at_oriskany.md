@@ -3,11 +3,13 @@ objectid: pt3_herkimer_at_oriskany
 parentid: pt3
 order: 27
 layout: 
+is_carousel: 
 hide: 
 title: Herkimer at Oriskany
 title_detailed: Herkimer at Oriskany (Year of Issue 1977) Scott Number 1722
 list_title: Herkimer at Oriskany, August 6, 1777
-image: pt3_The_American_Revolution_files/6554cf4575769e001998953a.png
+image: pt3_The_American_Revolution_files/6554cf4575769e001998953a.webp
+image_old: pt3_The_American_Revolution_files/6554cf4575769e001998953a.png
 img_alttext: A Patriot officer shows a soldier where to aim as the officer sits at the base of a tree, wounded. Surrounding the scene, American forces aim their firearms at a British seige.
 hotspots: 
 ---

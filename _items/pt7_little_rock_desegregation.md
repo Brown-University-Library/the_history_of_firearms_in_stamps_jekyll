@@ -3,11 +3,13 @@ objectid: pt7_little_rock_desegregation
 parentid: pt7
 order: 94
 layout: 
+is_carousel: 
 hide: 
 title: Little Rock desegregation
 title_detailed: "Little Rock deseg. (Year of Issue 2005)\nScott Number 3937d"
 list_title: Little Rock desegregation
-image: pt7_Global_Wars_files/66a9125cb8e238273de1082d.jpg
+image: pt7_Global_Wars_files/66a9125cb8e238273de1082d.webp
+image_old: pt7_Global_Wars_files/66a9125cb8e238273de1082d.jpg
 img_alttext: A colorful, abstract-inspired depiction of the Little Rock Nine standing close together. Some of the students hold on to one another. To the left of the Little Rock Nine a US soldier stands in front of an American flag.
 hotspots: 
 ---

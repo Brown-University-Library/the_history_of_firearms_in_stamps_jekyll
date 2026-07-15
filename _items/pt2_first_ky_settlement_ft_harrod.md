@@ -3,11 +3,13 @@ objectid: pt2_first_ky_settlement_ft_harrod
 parentid: pt2
 order: 11
 layout: 
+is_carousel: 
 hide: 
 title: First KY settlement, Ft. Harrod
 title_detailed: 1st KY settlement, Ft. Harrod (Year of Issue 1974) Scott Number 1542
 list_title: First KY settlement, Ft. Harrod, 1774
-image: pt2_The_Age_of_Immigration_files/6554c2925fe66200192bfe59.png
+image: pt2_The_Age_of_Immigration_files/6554c2925fe66200192bfe59.webp
+image_old: pt2_The_Age_of_Immigration_files/6554c2925fe66200192bfe59.png
 img_alttext: A covered wagon pulled by two oxen approaches the First Kentucky Settlement. Two children look out of the lack of the wagon. In the background, another wagon approaches the settlement of wooden buildings bordered by a fence.
 hotspots: 
 ---

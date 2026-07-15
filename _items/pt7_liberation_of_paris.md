@@ -3,11 +3,13 @@ objectid: pt7_liberation_of_paris
 parentid: pt7
 order: 90
 layout: 
+is_carousel: 
 hide: 
 title: Liberation of Paris
 title_detailed: Liberation of Paris (Year of Issue 1945) Scott Number 934
 list_title: Liberation of Paris, August 1944
-image: pt7_Global_Wars_files/6560ff4d9c603c0019045591.png
+image: pt7_Global_Wars_files/6560ff4d9c603c0019045591.webp
+image_old: pt7_Global_Wars_files/6560ff4d9c603c0019045591.png
 img_alttext: A crowd of American soldiers march past the Arc de Triomphe. A fleet of six planes fly above the soldiers.
 hotspots: 
 ---
@@ -22,7 +24,7 @@ Most of the soldiers in the parade carried the semi-automatic
 days between the French government’s surrender in June 1940
 and liberation by the Allies in 1944 should not be overlooked.
 
-![World War II U.S. military "Liberator" single-shot pistol. The weapon features a crude, blocky design constructed from stamped sheet metal with visible rivets, a short unrifled cylindrical barrel, an oversized zinc cocking knob at the rear, a simple loop trigger guard, and a hollow, rectangular grip panel.](../img/itemimgs/u_s_general_motors_guide_lamp_division_liberator_single_shot_pistol.jpg)
+![World War II U.S. military "Liberator" single-shot pistol. The weapon features a crude, blocky design constructed from stamped sheet metal with visible rivets, a short unrifled cylindrical barrel, an oversized zinc cocking knob at the rear, a simple loop trigger guard, and a hollow, rectangular grip panel.](../img/itemimgs/u_s_general_motors_guide_lamp_division_liberator_single_shot_pistol.webp)
 
 Throughout Europe, many resistance forces were supplied with
 the American-made single-shot [Liberator Pistol](https://www.nramuseum.org/the-museum/the-galleries/wwii,-korea,-vietnam-and-beyond/case-64-world-war-ii-us/us-general-motors-guide-lamp-division-liberator-single-shot-pistol.aspx). It could be

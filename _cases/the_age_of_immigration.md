@@ -1,6 +1,6 @@
 ---
 objectid: pt2
-order: 3
+order: 2
 title: Part 2. The Age of Immigration
 layout: 
 slug: the_age_of_immigration

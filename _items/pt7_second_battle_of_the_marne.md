@@ -3,11 +3,13 @@ objectid: pt7_second_battle_of_the_marne
 parentid: pt7
 order: 96
 layout: 
+is_carousel: 
 hide: 
 title: Second Battle of the Marne
 title_detailed: Second Battle of the Marne (Year of Issue 1985) Scott Number 2154
 list_title: Second Battle of the Marne, 1918
-image: pt7_Global_Wars_files/6560db12a84d8f00195aafb8.png
+image: pt7_Global_Wars_files/6560db12a84d8f00195aafb8.webp
+image_old: pt7_Global_Wars_files/6560db12a84d8f00195aafb8.png
 img_alttext: A line of WWI soldiers hold rifles in front of them as they advance on a hill. A town sits below the hill, behind the soldiers.
 hotspots: 
 ---
@@ -33,7 +35,7 @@ France, the German offensive began on July 15, 1918, and continued until August 
 Although initially successful, the German offensive was blunted, and the Allied counterattack
 began a relentless Allied advance that resulted in Germany’s surrender on November 11.
 
-![World War I-era U.S. Remington Model 1917 bolt-action rifle. The military firearm features a full-length dark walnut stock extending nearly to the muzzle, a long blued barrel with an integrated front sight, a distinctive "dog-legged" bent bolt handle, and a rear receiver sight heavily guarded by two raised steel protective ears.](../img/itemimgs/u_s_remington_model_1917_bolt_action_rifle.jpg)
+![World War I-era U.S. Remington Model 1917 bolt-action rifle. The military firearm features a full-length dark walnut stock extending nearly to the muzzle, a long blued barrel with an integrated front sight, a distinctive "dog-legged" bent bolt handle, and a rear receiver sight heavily guarded by two raised steel protective ears.](../img/itemimgs/u_s_remington_model_1917_bolt_action_rifle.webp)
 
 The photo is another common American rifle during WWI, [U.S. Remington Model 1917 Bolt
 Action Rifle](https://www.nramuseum.org/guns/the-galleries/world-war-i-and-firearms-innovation/case-32-wwi-america-and-the-allies/us-remington-model-1917-bolt-action-rifle.aspx). It is based on Britain’s Lee-Enfield rifle. Before the U.S. entered the war in 1917,

@@ -3,11 +3,13 @@ objectid: pt3_sybil_ludington
 parentid: pt3
 order: 22
 layout: 
+is_carousel: 
 hide: 
 title: Sybil Ludington
 title_detailed: "Sybil Ludington (Year of Issue 1975) \nScott Number 1559"
 list_title: Sybil Ludington
-image: pt3_The_American_Revolution_files/6696e6a9feb9ff871e76a47b.jpg
+image: pt3_The_American_Revolution_files/6696e6a9feb9ff871e76a47b.webp
+image_old: pt3_The_American_Revolution_files/6696e6a9feb9ff871e76a47b.jpg
 img_alttext: Sybil Ludington, a patriot, rides on a horse while yelling to gather militiamen to stop the British Amry from burning down Danbury. Behind her, fire and smoke rises above a collection of houses.
 hotspots: 
 ---

@@ -3,11 +3,13 @@ objectid: pt3_marine_w_musket
 parentid: pt3
 order: 24
 layout: 
+is_carousel: 
 hide: 
 title: Marine w/musket
 title_detailed: Marine w/musket (Year of Issue 1975) Scott Number 1567
 list_title: Marine w/musket
-image: pt3_The_American_Revolution_files/6554caf975769e001998747b.png
+image: pt3_The_American_Revolution_files/6554caf975769e001998747b.webp
+image_old: pt3_The_American_Revolution_files/6554caf975769e001998747b.png
 img_alttext: A Marine of the Continental Navy wears a green and red long coat with clear white trousers and a military style hat. The marine holds a musket across his body.
 hotspots: 
 ---

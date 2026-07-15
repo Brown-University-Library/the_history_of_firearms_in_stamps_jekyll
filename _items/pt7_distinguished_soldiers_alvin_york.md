@@ -3,11 +3,13 @@ objectid: pt7_distinguished_soldiers_alvin_york
 parentid: pt7
 order: 97
 layout: 
+is_carousel: 
 hide: 
 title: Distinguished soldiers, Alvin York
 title_detailed: Distinguished soldiers, Alvin York - Scott numbers 3395
 list_title: Distinguished soldiers, Alvin York
-image: pt7_Global_Wars_files/6560e1e22327000019d5fcea.png
+image: pt7_Global_Wars_files/6560e1e22327000019d5fcea.webp
+image_old: pt7_Global_Wars_files/6560e1e22327000019d5fcea.png
 img_alttext: U.S. 33-cent stamp from 2000 honoring Sergeant Alvin C. York, showing a portrait of York in World War I uniform with battlefield background. Part of the Distinguished Soldiers stamp series.
 hotspots: 
 ---

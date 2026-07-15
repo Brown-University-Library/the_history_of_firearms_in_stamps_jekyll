@@ -3,12 +3,14 @@ objectid: pt4_pony_express_1869
 parentid: pt4
 order: 62
 layout: 
+is_carousel: 
 hide: 
 title: Pony Express 1869
 title_detailed: Pony Express (Year of Issue 1869) Scott Number 113
 list_title: Pony Express 1869
-image: pt4_A_vigorous_and_growing_nation_files/66a15162aa7973c370250235.jpg
-img_alttext: 
+image: pt4_A_vigorous_and_growing_nation_files/66a15162aa7973c370250235.webp
+image_old: pt4_A_vigorous_and_growing_nation_files/66a15162aa7973c370250235.jpg
+img_alttext: monochrome brown stamp reading \"1860-1960 PONY EXPRESS - UNITED STATES POSTAGE - 4¢\" and featuring a rider on a horse at full gallop in front of a dotted line from Sacramento to St. Joseph
 hotspots: 
 ---
 This stamp comes the Post Office’s ill-received 1869 series of pictorials.
