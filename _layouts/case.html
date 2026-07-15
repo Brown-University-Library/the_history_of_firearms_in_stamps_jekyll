@@ -7,8 +7,6 @@ layout: default
       {{ content }}
     </div>
     <div id="caseitems">
-      <a id="fullstamplink" href="#caseitems">For demo only: Show full height stamps</a>
-      <a id="truncstamplink" href="#">For demo only: Show cropped height stamps</a>
       <ul>
         {% for item in site.items 
         %}{% assign srcsetimg = item.image

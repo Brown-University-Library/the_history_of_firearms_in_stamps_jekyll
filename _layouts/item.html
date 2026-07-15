@@ -5,34 +5,22 @@ layout: default
 %}{%   assign parent = site.cases | where: "objectid", page.parentid | first
 %}{% assign introclasses = "longtitle"
 %}
-    <figure id="imgcol">
-      {%   assign iscarousel = page.is_carousel
-      %}{% if iscarousel
-      %}{%   include carousel_item.html
-      %}{% else
-      %}{%   assign srcsetimg = page.image
-      %}{%   include imgsrcset.html
-      %}{%   assign imageitem = page
-      %}
-      <div class="imgbox" {% if imgid %} id="{{ imgid }}"{% endif %}>
-          {% include wrappedimg.html %}
-      </div>
-      {%- endif
-      %}
-      <figcaption class="textblock">
-        <h2>
-          {{ page.title_detailed }}
-        </h2>
-        <p>
-        {{ page.img_alttext | replace: '\"', '"' }}
-        <p>
-      </figcaption>
-    </figure>
+    <div id="imgcol">{% assign iscarousel = page.is_carousel
+    %}{% if iscarousel
+    %}<div id="carousel">
+      {%- include carousel.html %}
+    </div>
+    {% else
+    %}{%   assign srcsetimg = page.image
+    %}{%   include imgsrcset.html
+    %}{%   assign imageitem = page
+    %}
+      {% include imgbox.html %}
+    {% endif -%}
+    </div>
     <div class="textblock" id="textcol">
       <h1>{{ page.title }}</h1>
-      <p>
-      {{ content }}
-      </p>
+      {{ content | markdownify }}
     </div>
     <nav id="nextprev">{% assign prevurl = page.previous.url
       %}{% assign nexturl = page.next.url %}

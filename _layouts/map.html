@@ -4,27 +4,28 @@ id: map
 ---
     {% include baseurl.html -%}
     <div id="map">
-      <div class="imgbox">
-        {%   assign srcsetimg = page.image
-        %}{% include imgsrcset.html
-        %}{% assign imageitem = page
-        %}{% assign nozoom = ""
-        %}{% include wrappedimg.html %}
-      </div>
+      {% assign imageitem = page
+      %}{% assign notext = true
+      %}{% assign nozoom = true
+      %}{% include imgbox.html %}
       <nav>
         <div class="mapnav">{% assign prevurl = page.previous.url
           %}{% assign nexturl = page.next.url %}
           {% unless page.previous.parentid != page.parentid or page.previous.layout != "map" %}
           <a href="{{ baseurl }}{{ prevurl }}"
             class="nextprev" id="prev">{{ page.previous.title }}</a>
-          {%- endunless
-          %}{% unless page.next.parentid != page.parentid or page.next.layout != "map" %}
+          {%- endunless %}
+          {% unless page.previous.layout != "map" and page.next.layout != "map" %}
+          <a href="#"
+                   class="nextprev active" id="current">{{ page.title }}</a>
+          {% endunless %}
+          {%- unless page.next.parentid != page.parentid or page.next.layout != "map" %}
           <a href="{{ baseurl }}{{ nexturl }}"
             class="nextprev" id="next">{{ page.next.title }}</a>
           {%- endunless %}
         </div>
 {%- assign parent = site.cases | where: "objectid", page.parentid | first %}
-        <a id="backout" href="{{ parent.url }}">✖</a>
+{% comment %}<a id="backout" href="{{ baseurl }}{{ parent.url }}">✖</a>{% endcomment %}
       </nav>
     </div>
   </main>

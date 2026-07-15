@@ -1,12 +1,6 @@
-    {% if iscarousel
-    %}{% unless forloop.first
-    %}<a class="carouselbtn prev" href="#{{ prevlink }}"></a>
-    {%  endunless
-    %}{% unless forloop.last
-    %}<a class="carouselbtn next" href="#{{ nextlink }}"></a>
-    {%  endunless
-    %}{% endif -%}
     <div class="imgwrapper"> 
+      {% assign srcsetimg = imageitem.image %}
+      {% include imgsrcset.html %}
       {% assign zoommodalid = "zoom"
       %}{% if iscarousel
       %}{%   assign zoommodalid = imageitem.objectid | append: "zoom"
@@ -34,11 +28,3 @@
       %}{% include zoommodal.html
       %}{% endunless %}
     </div>
-    {%- assign lowtitle = imageitem.title | downcase
-    %}{% if site.carouselcaptions and iscarousel and ((lowtitle != imageitem.objectid) or imageitem.content) %}
-    <figcaption>{% if lowtitle != imageitem.objectid %}
-      <h3>{{ imageitem.title | markdownify }}</h3>{% endif
-    %}{% if imageitem.content %}
-      {{ imageitem.content | markdownify }}{% endif %}
-    </figcaption>
-    {%- endif %}
