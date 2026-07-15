@@ -8,6 +8,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 item_img_path: img/itemimgs
+display_alttext: true
+
+kramdown:
+  hard_wrap: false
 
 carouselcaptions: true
 
