@@ -1,0 +1,23 @@
+    <figure>
+      <div class="imgbox" {% if imgid %} id="{{ imgid }}"{% endif %}>
+        {% include wrappedimg.html %}
+      </div>
+      {% unless notext %}<figcaption>{% if imageitem.title %}
+        <h3>{{ imageitem.title_detailed | default:
+          imageitem.title | markdownify }}</h3>{% endif
+      %}{% if imageitem.img_alttext and site.display_alttext
+      %}<p>{{   imageitem.img_alttext | strip | replace: '\"', '"'
+      }}</p>{% endif %}
+      </figcaption>{% endunless %}
+      {% if iscarousel
+      %}{% if is_first
+      %}{% elsif extrafirst and forloop.first
+      %}<a class="carouselbtn prev" href="#{{ firstimgid }}"></a>
+      {% else
+      %}<a class="carouselbtn prev" href="#{{ prevlink }}"></a>
+      {%  endif
+      %}{% unless forloop.last
+      %}<a class="carouselbtn next" href="#{{ nextlink }}"></a>
+      {%  endunless
+      %}{% endif -%}
+    </figure>
