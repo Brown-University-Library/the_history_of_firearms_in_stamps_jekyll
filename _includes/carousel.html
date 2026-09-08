@@ -1,7 +1,7 @@
 {%- assign carousel = site.carousel_images | where: "parentid", page.objectid
 %}{% assign imageitem = page
 %}{% assign srcsetimg = imageitem.image
-%}{% include imgsrcset.html %}
+%}{% include imgsrcset.html
 %}{% assign is_first = true
 %}{% assign nextobj = carousel[0]
 %}{% assign nextlink = nextobj.objectid
@@ -20,7 +20,7 @@
 %}{% assign prevlink = prevobj.objectid
 %}{% assign imageitem = image
 %}{% assign srcsetimg = imageitem.image
-%}{% include imgsrcset.html %}
+%}{% include imgsrcset.html
 %}{% assign imgid = image.objectid
 %}{% assign nozoom = true %}
 {% include imgbox.html %}

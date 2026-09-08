@@ -6,8 +6,7 @@ id: map
     <div id="map">
       {% assign imageitem = page
       %}{% assign notext = true
-      %}{% assign nozoom = true
-      %}{% include imgbox.html %}
+      %}{% assign nozoom = true %}
       <nav>
         <div class="mapnav">{% assign prevurl = page.previous.url
           %}{% assign nexturl = page.next.url %}
@@ -27,6 +26,7 @@ id: map
 {%- assign parent = site.cases | where: "objectid", page.parentid | first %}
 {% comment %}<a id="backout" href="{{ baseurl }}{{ parent.url }}">✖</a>{% endcomment %}
       </nav>
+      {% include imgbox.html %}
     </div>
   </main>
 </body>

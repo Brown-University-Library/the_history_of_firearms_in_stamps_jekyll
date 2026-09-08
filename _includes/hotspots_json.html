@@ -24,6 +24,9 @@
             style="top:{{ top }}; left:{{ left }};"
             >
             <div></div>
+            {% if site.hotspot_labels %}
+            <span>{{ title }}</span>
+            {% endif %}
         </a>{% unless url %}{% assign zoommodalimg = imageitem.image
         %}{%     assign zoommodalid = imageitem.anchor
         %}{%     include zoommodal.html
