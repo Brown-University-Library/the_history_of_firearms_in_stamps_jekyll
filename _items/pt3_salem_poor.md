@@ -1,7 +1,7 @@
 ---
 objectid: pt3_salem_poor
 parentid: pt3
-order: 26
+order: 309
 layout: 
 is_carousel: 
 hide: 
@@ -10,7 +10,7 @@ title_detailed: Salem Poor (Year of Issue 1975) Scott Number 1560
 list_title: Salem Poor
 image: pt3_The_American_Revolution_files/6554c9065fe66200192c29bd.webp
 image_old: pt3_The_American_Revolution_files/6554c9065fe66200192c29bd.png
-img_alttext: A Black Patriot fighter refilled his muskets during battle while the Bunker Hill flag flies behind him. The words \"Contributors To The Cause\" hover next to the soldier.
+img_alttext: A Black Patriot fighter reloads his musket during battle while the Bunker Hill flag flies behind him. The words \"Contributors To The Cause\" hover next to the soldier.
 hotspots: 
 ---
 This stamp is one of the four-stamp “Contributors to the Cause” series. Contributors was the first series to have printed descriptions on the back side of stamps. It states, “The conspicuous courage of black foot soldier Salem Poor at the Battle of Bunker Hill on June 17, 1775, earned him citations for his bravery and leadership ability.”

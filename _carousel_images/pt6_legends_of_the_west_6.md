@@ -5,6 +5,6 @@ parentid: pt6_legends_of_the_west
 image: pt6_Westward_ho_files/legendsjoseph.webp
 title: "Chief Joseph (#2869f)"
 description: 
-img_alttext: A portrait of Chief Joseph, a native man with vibrant lapis earrings, and many necklaces. His hair is kept in two long braids, wrapped in brown and white cord The text reads \"USA 29 - Chief Joseph\"
+img_alttext: A portrait of Nez Perce Chief Joseph with vibrant lapis earrings and nine necklaces. The two long braids of his black hair are wrapped in brown and white cord.
 _note: A portrait of Chief Joseph, a native man with vibrant lapis earrings, and many necklaces. His hair is kept in two long braids, wrapped in brown and white cord
 ---

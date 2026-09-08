@@ -1,7 +1,7 @@
 ---
 objectid: pt3_trumbull_burgoyne_surrender_1977
 parentid: pt3
-order: 28
+order: 319
 layout: 
 is_carousel: 
 hide: 
@@ -10,7 +10,7 @@ title_detailed: "Trumbull: Burgoyne surrender (Year of Issue 1977) Scott Number 
 list_title: "Trumbull: Burgoyne surrender, 1777"
 image: pt3_The_American_Revolution_files/6554d1ba75769e001998a0d3.webp
 image_old: pt3_The_American_Revolution_files/6554d1ba75769e001998a0d3.png
-img_alttext: An American soldier stretched out his arms as American and British forces surround him. A figure on the right has a visibly annoyed expression. A figure on the left leans toward the central figure with his hand on his sword.
+img_alttext: The same surrender scene as the previous stamp, closer-up and in full color.
 hotspots: 
 ---
-This 1977 stamp is based on the same Jonathan Trumbull painting as was the 1927 stamp. The newer version much more realistically depicts the participants, including American commander Horatio Gates.
+This 1977 stamp is based on the same John Trumbull painting as was the 1927 stamp. The newer version much more realistically depicts the participants, including American commander Horatio Gates.

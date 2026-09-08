@@ -5,6 +5,6 @@ parentid: pt7_1943_turning_the_tide
 image: pt7_Global_Wars_files/1943williejoe.webp
 title: "“Willie and Joe” keep spirits high, 1943 (#2765h)"
 description: 
-img_alttext: See-through outlines of cartoon soldiers talk and point atop a simplified skyline and sunset. The text reads '“Willie and Joe” keep spirits high, 1943'
+img_alttext: See-through outlines of cartoon soldiers talk and walk in front of a simplified skyline and sunset.
 _note: See-through outlines of cartoon soldiers talk and point atop a simplified skyline and sunset
 ---

@@ -5,6 +5,6 @@ parentid: pt6_legends_of_the_west
 image: pt6_Westward_ho_files/legendspickett.webp
 title: "Bill Pickett (#2869g)"
 description: 
-img_alttext: A portrait of Bill Pickett, a smirking dark-skinned cowboy, in front of a sunset The text reads \"USA 29 - Bill Pickett\"
+img_alttext: "The pioneering Black cowboy Bill Pickett is depicted smiling confidently in Western clothing, set against a vibrant orange and red sunset. Text: “USA 29 – Bill Pickett.”"
 _note: A portrait of Bill Pickett, a smirking dark-skinned cowboy, in front of a sunset
 ---

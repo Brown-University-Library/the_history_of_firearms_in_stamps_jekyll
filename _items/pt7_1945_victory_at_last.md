@@ -1,7 +1,7 @@
 ---
 objectid: pt7_1945_victory_at_last
 parentid: pt7
-order: 91
+order: 715
 layout: 
 is_carousel: 1
 hide: 
@@ -13,33 +13,10 @@ image_old: pt7_Global_Wars_files/656107e62327000019d8fc84.png
 img_alttext: Stamps of various scenes from WWII, including the famous photo of a soldier kissing a nurse in the street, line a larger image of a world map depicting the battle scenes of the war.
 hotspots: 
 ---
-After the American traitor and nuclear scientist Julius Rosenberg delivered the secret of
-atomic bomb manufacture to the Soviet Union, Soviet tyrant Josef Stalin felt confident
-enough to tell his ally, the North Korean tyrant Kim Il-Sung, to start the Korean War in 1950.
+Stamps with firearms on the last of the WWII panes are raising the flag at Iwo Jima, the liberation of Manila, and the Battle of Okinawa. Of course prisoners in the extermination camps, depicted in the upper right, are not shown with firearms, because genocidal regimes disarm victims beforehand.
 
-Swarming over the 38th parallel, which separated North and South Korea, the communist
-invasion nearly conquered the entire peninsula. But it was driven back by United Nations
-forces, comprised of Americans, Australians, and many other nationalities. And of course
-South Koreans. The U.N. counterattack liberated nearly all of North Korea, but was pushed
-back by the intervention of Chinese troops sent in by Mao Zedong.
+![U.S. Winchester M1 .30 caliber semiautomatic carbine with early-style folding rear sight, wooden stock, and metal hardware, as used in the Pacific island campaigns of 1944–1945.](./img/itemimgs/winchester_m1.webp)
 
-The war turned into a stalemate, and finally an armistice was signed in 1953. It left intact
-with the border at the 38th parallel, with adjustments to improve South Korea’s defensive
-terrain. The armistice could have been signed much sooner, but for the refusal of the U.N.
-side to repatriate Chinese and North Korean prisoners who did not want to be sent back to
-communist control, where death and torture were certain.
+Globally, one of the most important American firearms was the semiautomatic M1 Carbine, such as the [Winchester M1](https://www.nramuseum.org/guns/the-galleries/wwii,-korea,-vietnam-and-beyond-1940-to-present/case-39-wwii-the-united-states/us-winchester-m1-semi-automatic-carbine.aspx) here. Notwithstanding the similar name, the M1 carbine is based on an entirely different design from the larger M1 Garand rifle.
 
-Many American soldiers in the war carried M1 Garands or M1 Carbines, as in World War II.
-But the U.S. Army was beginning the transition to “assault rifles.” While the phrase is a
-nebulous term in today’s American politics, it has a a very specific military meaning. An
-assault rifles is capable of “selective fire.” With the flip of a selector switch, It can semi-
-automatically fire one shot per trigger press (like the semi-automatic Garand), or it could
-fire automatically, shooting bullets continuously as long as the trigger was held down (like
-the Thompson submachine gun).
-
-![Korean War-era U.S. M2 selective-fire carbine. The compact firearm features a dark walnut stock with a heavy fore-end, a parkerized receiver with an open bolt mechanism, a prominent curved 30-round detachable box magazine extending far below the receiver, and a cylindrical steel pronged flash hider attached over the muzzle tip.](../img/itemimgs/u_s_m2_selective_fire_carbine_w_flash_hider.webp)
-
-The photo shows a selective fire arm of the Korean War, the [U.S. M2 selective fire carbine](https://www.nramuseum.org/guns/the-galleries/wwii,-korea,-vietnam-and-beyond-1940-to-present/case-41-korean-war-firearms/us-m2-selective-fire-carbine-w-flash-hider.aspx).
-Unusually, there is a flash hider on the front of this firearm. By dispersing the bright muzzle
-flash when the gun is fired, the flash hider prevent “shooter’s blindness” when used at night.
-It also reduces the risk that the enemy will see the user’s location.
+The carbine is shorter and lighter. While the Garand is fed by 8-round clips, the carbine uses 15- or 30-round detachable fox magazines. It was often issued to paratroops, to personnel behind the front lines, and so on. After the war, the U.S. government distributed vast surplus quantities of the M1 rifle and M1 carbine to allied nations---and at steeply discounted to U.S. civilians, via the government’s Civilian Marksmanship Program.

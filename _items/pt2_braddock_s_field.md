@@ -1,7 +1,7 @@
 ---
 objectid: pt2_braddock_s_field
 parentid: pt2
-order: 9
+order: 205
 layout: 
 is_carousel: 
 hide: 
@@ -10,16 +10,16 @@ title_detailed: Braddock’s Field (Year of Issue 1930) Scott Number 688
 list_title: Braddock’s Field, 1755
 image: pt2_The_Age_of_Immigration_files/6554c0af1019c000191db942.webp
 image_old: pt2_The_Age_of_Immigration_files/6554c0af1019c000191db942.png
-img_alttext: George Washington stands in military uniform on top of a hill, looking into the distance. Beside George Washington are the dates 1755 and 1930 on a red background.
+img_alttext: George Washington stands in military uniform on top of a hill, looking into the distance. Beside Washington are the dates 1755 and 1930 on a red background.
 hotspots: 
 ---
-By the early 1750s, the American colonists on the Atlantic seaboard were trying  to expand west, across the Appalachian Mountains. But they were bottled up by  a string of French forts that stretched from New Orleans to Quebec. The conflict  was sharpest in the Ohio River valley. 
+By the early 1750s, the American colonists on the Atlantic seaboard were trying to expand west, across the Appalachian Mountains. But they were bottled up by a string of French forts that stretched from New Orleans to Quebec. The conflict was sharpest in the Ohio River valley. 
 
-The Battle of Braddock’s Field was the beginning of what Americans call the  French & Indian War. Soon, it became the first global war, pitting the British &  Spanish against the French in the Americas, Europe, Africa, and Asia. 
+The Battle of Braddock’s Field was the beginning of what Americans call the French & Indian War. Soon, it became the first global war, pitting the British & Spanish against the French in the Americas, Europe, Africa, and Asia. 
 
-Braddock’s Field was a French victory. Virginia Col. George Washington, leading  the colony’s militia, could not make up for the ineptitude of the British  commander, who resolutely refused to adapt his European strategy and tactics  to American conditions. 
+Braddock’s Field was a French victory. Virginia Col. George Washington, leading the colony’s militia, could not make up for the ineptitude of the British commander, George Braddock, who resolutely refused to adapt his European strategy and tactics to American conditions. 
 
-The main firearm of the Angle-American forces was the flintlock Brown Bess  musket--the standard firearm of British forces in the eighteenth century. It was  much lighter than a 17th century British matchlock musket, and was so well suited for carrying long distances, such as expeditions deep into the American  interior. It will appear in subsequent slides. 
+The main firearm of the Anglo-American forces was the flintlock Brown Bess musket—the standard firearm of British soldiers in the 18th century. It was much lighter than a 17th-century British matchlock musket, and was well suited for carrying long distances, such as expeditions deep into the American interior. The Brown Bess will appear in subsequent pages. 
 
 ![Two heavily ornamented flintlock pistols rotated to mirror each other's curve. Both are made of polished dark wood and inlaid with intricate engraved metal hardware.](../img/itemimgs/george_washington_matched_flintlock_pistol_pair.webp)
 

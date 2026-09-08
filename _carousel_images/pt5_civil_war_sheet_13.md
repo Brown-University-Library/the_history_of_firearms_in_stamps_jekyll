@@ -5,6 +5,6 @@ parentid: pt5_civil_war_sheet_of_20
 image: pt5_The_Civil_War_files/civilwarjohnston.webp
 title: "Joseph E. Johnston (#2975m)"
 description: 
-img_alttext: Portrait of Joseph E. Johnston in grey uniform. He holds a map in front of a vast mountainous landscape. The text reads '32 USA - Joseph E. Johnston '
+img_alttext: In a gray uniform, Confederate General Joseph E. Johnston holds a map. Behind are several trees, all but one bare. In the far background rises Kennesaw Mountain, Georgia.
 _note: 
 ---

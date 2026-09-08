@@ -1,7 +1,7 @@
 ---
 objectid: pt4_anthony_wayne
 parentid: pt4
-order: 55
+order: 403
 layout: 
 is_carousel: 
 hide: 
@@ -10,12 +10,12 @@ title_detailed: Anthony Wayne (Year of Issue 1929) Scott Number 680
 list_title: Anthony Wayne
 image: pt4_A_vigorous_and_growing_nation_files/6699336b04d6c110fb241923.webp
 image_old: pt4_A_vigorous_and_growing_nation_files/6699336b04d6c110fb241923.jpg
-img_alttext: General Wayne wears an elaborate military uniform in the center of the stamp. The figure on the right wears a simpler uniform and carries a musket. A Native American stands to the left, holding a rod across his body.
+img_alttext: The stamp is based on the Wayne Memorial at Fallen Timbers. General Wayne wears an elaborate military uniform in the center of the stamp. The figure on the right wears a simpler uniform and carries a musket. A Native American stands to the left, holding a club across his body.
 hotspots: 
 ---
 The United Kingdom and the United States ended the War of Independence with the 1783 Treaty of Paris. But neither side fully lived up to the treaty. Among other things, the British were supposed to evacuate their forts in the Northwest Territory—the modern states of Michigan, Wisconsin, Illinois, Indiana, and Ohio.
 
-In 1790, a group of several Indian tribes came together, with British encouragement, to form the Western Confederacy, and drive out American settlers in the Northwest Territory. After the U.S. suffered a series of defeats, President Washington appointed General “Mad Anthony ” Wayne as commander. He had earned the nickname for his courage during the Revolution.
+In 1790, a group of several Indian tribes came together, with British encouragement, to form the Western Confederacy and drive out American settlers in the Northwest Territory. After the U.S. suffered a series of defeats, President Washington appointed General “Mad Anthony” Wayne as commander. He had earned the nickname for his courage during the Revolution.
 
 On August 20, 1794, the U.S. Army, commanded by Wayne and guided by Chickasaw and Choctaw scouts, met and defeated the Western Confederacy at the Battle of Fallen Timbers, Ohio. The next year, Wayne and Confederacy leader Little Turtle signed the Treaty of Greenville, ceding the Ohio Territory to the United States.
 

@@ -1,7 +1,7 @@
 ---
 objectid: pt1_the_philippine_islands
 parentid: pt1
-order: 1
+order: 100
 layout: map
 is_carousel: 
 hide: 
@@ -12,5 +12,5 @@ image: phillippines.webp
 image_old: phillippines.jpg
 description: 
 img_alttext: An 1898 New York Times supplement map of the Philippine Islands showing the yellow-shaded archipelago between the South China Sea and the Pacific Ocean, with major islands labeled. 
-hotspots: "[{\"top\":\"53.62%25\",\"left\":\"77%25\",\"override_link\":\"..%2Fitems%2Fpt1_magellan_landing.html\",\"image\":\"\",\"title\":\"\",\"description\":\"\"}]"
+hotspots: "[{\"top\":\"53.62%25\",\"left\":\"77%25\",\"override_link\":\"..%2Fitems%2Fpt1_magellan_landing.html\",\"image\":\"\",\"title\":\"Magellan's%20landing\",\"description\":\"\"}]"
 ---
