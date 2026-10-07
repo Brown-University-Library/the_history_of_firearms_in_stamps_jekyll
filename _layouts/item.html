@@ -3,6 +3,7 @@ layout: default
 ---
 {% include baseurl.html
 %}{%   assign parent = site.cases | where: "objectid", page.parentid | first
+%}{%   assign nextparent = site.cases | where: "objectid", page.next.parentid | first
 %}{% assign introclasses = "longtitle"
 %}
     <div id="imgcol">{% assign iscarousel = page.is_carousel
@@ -23,8 +24,15 @@ layout: default
       {{ content | markdownify }}
     </div>
     <nav id="nextprev">{% assign prevurl = page.previous.url
-      %}{% assign nexturl = page.next.url %}{% unless nexturl %}{% assign nexturl = "/cases/conclusion.html" %}{% endunless %}
-
+      %}{% assign nexturl = page.next.url
+      %}{% unless nexturl %}{% assign nexturl = "/cases/conclusion.html"
+      %}{% endunless
+      %}{% if page.previous.parentid != page.parentid
+      %}{% assign prevurl =  parent.url
+      %}{% endif
+      %}{% if page.next.parentid != page.parentid
+      %}{% assign nexturl =  nextparent.url
+      %}{% endif %}
       <a href="{{ baseurl }}{{ prevurl }}" class="nextprev" id="prev">{{ site.data.i18n.previous }}</a>
       <a href="{{ baseurl }}{{ nexturl }}" class="nextprev" id="next">{{ site.data.i18n.next }}</a>
     </nav>
