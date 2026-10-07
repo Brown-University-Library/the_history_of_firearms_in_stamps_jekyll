@@ -15,6 +15,6 @@ hotspots:
 ---
 In this commemorative pane, the stamps with firearms pictured are: Allied forces retake New Guinea; D-Day invasion of Normandy, France; Allies liberate Rome & Paris; Allies clear Saipan bunkers; and Battle of the Bulge.
 
-![A classic tommy gun, with a wooden stock, rounded drum magazine, and small suppressor.](../img/itemimgs/1928tommy.webp)
+![A classic tommy gun, with a wooden stock, rounded drum magazine, and small compensator.](../img/itemimgs/1928tommy.webp)
 
-Everywhere, some American forces were armed with the [US/Auto Ordnance Model 1928 Thompson Submachine Gun](https://www.nramuseum.org/guns/the-galleries/wwii,-korea,-vietnam-and-beyond-1940-to-present/case-40-wwii-more-arms/usauto-ordnance-model-1928-thompson-submachine-gun.aspx). It did not have long range, but it was very effective within 50 yards. Often, a unit of soldiers armed with slower rifles would be supported by several men with Thompsons. The pictured Thompson is a classic tommy gun, with a wooden stock and rounded drum magazine; there is also a small suppressor.
+Everywhere, some American forces were armed with the [US/Auto Ordnance Model 1928 Thompson Submachine Gun](https://www.nramuseum.org/guns/the-galleries/wwii,-korea,-vietnam-and-beyond-1940-to-present/case-40-wwii-more-arms/usauto-ordnance-model-1928-thompson-submachine-gun.aspx). It did not have long range, but it was very effective within 50 yards. Often, a unit of soldiers armed with slower rifles would be supported by several men with Thompsons. The pictured Thompson is a classic tommy gun, with a wooden stock and rounded drum magazine; there is also a small Cutts Compensator, to reduce recoil and muzzle climb.

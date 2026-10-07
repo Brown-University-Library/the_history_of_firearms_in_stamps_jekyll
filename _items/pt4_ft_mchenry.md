@@ -15,7 +15,7 @@ hotspots:
 ---
 The bicentennial of the War of 1812 was honored in stamps issued in 2012--15.
 
-This scene is where The Star-Spangled Banner was born. On Sept. 13--14, 1814, the British Navy bombarded Ft. McHenry, Maryland. Across the Baltimore harbor, Francis Scott Key was being held prisoner by the British. From his cell, he watched Ft. McHenry persevere, and the star-spangled banner still wave. The poem he wrote was later declared the national anthem in 1931.
+This scene is where The Star-Spangled Banner was born. On Sept. 13--14, 1814, the British Navy bombarded Ft. McHenry, Maryland. Across the Baltimore harbor, Francis Scott Key, who was being detained by the British, watched Ft. McHenry persevere, and the star-spangled banner still wave. The poem he wrote was later declared the national anthem in 1931.
 
 ![A U.S. Springfield Model 1795 Type I flintlock musket, featuring a long dark wood stock, smoothbore metal barrel, prominent flintlock mechanism, and an iron ramrod.](../img/itemimgs/u_s_springfield_model_1795_flintlock_musket_type_i.webp)
 

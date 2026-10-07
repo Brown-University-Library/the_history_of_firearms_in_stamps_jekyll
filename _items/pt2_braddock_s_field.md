@@ -15,9 +15,9 @@ hotspots:
 ---
 By the early 1750s, the American colonists on the Atlantic seaboard were trying to expand west, across the Appalachian Mountains. But they were bottled up by a string of French forts that stretched from New Orleans to Quebec. The conflict was sharpest in the Ohio River valley. 
 
-The Battle of Braddock’s Field was the beginning of what Americans call the French & Indian War. Soon, it became the first global war, pitting the British & Spanish against the French in the Americas, Europe, Africa, and Asia. 
+The Battle of Braddock’s Field was an early part of what Americans call the French & Indian War. Soon, it became the first global war, pitting the British against the French and later the Spanish in the Americas, Europe, Africa, and Asia.
 
-Braddock’s Field was a French victory. Virginia Col. George Washington, leading the colony’s militia, could not make up for the ineptitude of the British commander, George Braddock, who resolutely refused to adapt his European strategy and tactics to American conditions. 
+Braddock’s Field was a French victory. Virginia Col. George Washington could not make up for the ineptitude of the British commander, George Braddock, who resolutely refused to adapt his European strategy and tactics to American conditions. 
 
 The main firearm of the Anglo-American forces was the flintlock Brown Bess musket—the standard firearm of British soldiers in the 18th century. It was much lighter than a 17th-century British matchlock musket, and was well suited for carrying long distances, such as expeditions deep into the American interior. The Brown Bess will appear in subsequent pages. 
 

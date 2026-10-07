@@ -10,7 +10,7 @@ title_detailed: Marquette (Year of Issue 1968) Scott Number 1356
 list_title: Marquette, 1668
 image: pt1_The_Age_of_Exploration_files/6554b8c28cf45e0019a9566c.webp
 image_old: pt1_The_Age_of_Exploration_files/6554b8c28cf45e0019a9566c.png
-img_alttext: Four men sitting in a handwoven boat. Background colors depict a white sky and green waters. Behind the helmsman sits a man in a black hat pointing a finger towards an unspecified destination. Top of the stamp reads 'Marquette Explorer'.
+img_alttext: Four men sitting in a handwoven boat. Background colors depict a white sky and green waters. Behind the helmsman sits Father Marquette in a black hat pointing a finger towards an unspecified destination. Top of the stamp reads 'Marquette Explorer'.
 hotspots: 
 ---
 Note the color difference between this 1968 stamp and the preceding stamp, from 1934. For over a century following the issuance of the first American stamps in 1847 (George Washington and Benjamin Franklin), American stamps were printed in at most two colors, and usually only one. Multiple colors appeared on American stamps in the 1960s, at about the same time color televisions were supplanting black & white.

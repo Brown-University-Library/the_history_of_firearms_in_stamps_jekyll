@@ -10,7 +10,7 @@ title_detailed: "CM Russell: Cattle Roping (Year of Issue 1964) Scott Number 124
 list_title: "CM Russell: Cattle Roping"
 image: pt6_Westward_ho_files/6560cc762327000019d4e2f8.webp
 image_old: pt6_Westward_ho_files/6560cc762327000019d4e2f8.png
-img_alttext: A group of cowboys lasso cows in a dry, desert landscape.
+img_alttext: A group of cowboys lasso cattle in a dry, desert landscape.
 hotspots: 
 ---
 This reproduction of Charles Marion Russell’s painting “Jerked Down” comes from the 1964 American Painting Series. In 1880, Russell moved west and became a cowboy. From 1888--92, he lived with the Blackfeet Indians, in the Blood band of the tribe.

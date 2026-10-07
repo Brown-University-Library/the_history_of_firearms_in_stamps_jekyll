@@ -10,7 +10,7 @@ title_detailed: Distinguished soldiers, Audie L. Murphy (Year of Issue 2000) Sco
 list_title: Distinguished soldiers, Audie L. Murphy
 image: pt7_Global_Wars_files/6560e2cda84d8f00195b38fd.webp
 image_old: pt7_Global_Wars_files/6560e2cda84d8f00195b38fd.png
-img_alttext: A black & white photo of Audie L. Murphy in military uniform and wearing a helmet. On the lower right is a square with blue and white diagonal stripes, representing the Medal of Honor he received for his actions at Holtzwihr.
+img_alttext: A black & white photo of Audie L. Murphy in military uniform and wearing a helmet. On the lower right is a square with blue and white diagonal stripes, the 3rd Infantry Division shoulder insignia.
 hotspots: 
 ---
 Earning 33 awards and decorations, Murphy became the most-decorated soldier in Army history. He exemplified grace under pressure, saving many of his fellow soldiers. After the war, his humility, simplicity, dignity, and patriotism made him an icon, WWII’s version of Sergeant York.

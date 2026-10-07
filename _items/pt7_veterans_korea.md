@@ -13,9 +13,9 @@ image_old: pt7_Global_Wars_files/65b8ffeedabed1001902e7be.png
 img_alttext: A group of soldiers during the Korean War march in a line between two hills. The lead soldier carries a rifle as he looks back to the rest.
 hotspots: 
 ---
-After the American traitor and nuclear scientist Julius Rosenberg delivered the secret of atomic bomb manufacture to the Soviet Union, Soviet tyrant Josef Stalin felt confident enough to tell his ally, the North Korean tyrant Kim Il-Sung, to start the Korean War in 1950.
+After American traitors such as Julius Rosenberg delivered the secret of atomic bomb manufacture to the Soviet Union, Soviet tyrant Josef Stalin told his ally, the North Korean tyrant Kim Il-Sung, to start the Korean War in 1950.
 
-Swarming over the 38th parallel, which separated North and South Korea, the communist invasion nearly conquered the entire peninsula. But it was driven back by United Nations forces, comprised of Americans, Australians, and many other nationalities. And of course South Koreans. The U.N. counterattack liberated nearly all of North Korea, but was pushed back by the intervention of Chinese troops sent in by Mao Zedong.
+Swarming over the 38th parallel, which separated North and South Korea, the communist invasion nearly conquered the entire peninsula. But it was driven back by United Nations forces, comprised of South Koreans, Americans, Australians, and many other nationalities. The U.N. counterattack liberated nearly all of North Korea, but was pushed back by the intervention of Chinese troops sent in by Mao Zedong.
 
 The war turned into a stalemate, and finally an armistice was signed in 1953. It left intact the border at the 38th parallel, with adjustments to improve South Korea’s defensive terrain. The armistice could have been signed much sooner, but for the refusal of the U.N. side to repatriate Chinese and North Korean prisoners who did not want to be sent back to communist control, where death and torture were certain.
 

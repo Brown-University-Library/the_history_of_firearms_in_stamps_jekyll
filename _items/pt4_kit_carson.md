@@ -19,7 +19,7 @@ Many Mountain Men married Indian wives, sometimes polygamously, and their famili
 
 ![A full-stock American long rifle with a maple wood stock, a long octagonal barrel, and a historic percussion conversion lock mechanism. The rifle features polished brass furniture, including an elongated trigger guard, a classic hinged patchbox on the stock, and double set triggers.](../img/itemimgs/william_hawken_full_stock_percussion_conversion_rifle.webp)
 
-In the stamp, he carries his [Hawken rifle](https://www.nramuseum.org/guns/the-galleries/a-prospering-new-republic-1780-to-1860/case-9-the-plains-rifle/william-hawken-full-stock-percussion-conversion-rifle.aspx) and a powderhorn, and wears a buffalo hat. He also carried a pair of Colt revolvers. The rifle in the photo is an American Long Rifle that was converted to percussion ignition by William Hawken.
+In the stamp, he carries his [Hawken rifle](https://www.nramuseum.org/guns/the-galleries/a-prospering-new-republic-1780-to-1860/case-9-the-plains-rifle/william-hawken-full-stock-percussion-conversion-rifle.aspx) and a powderhorn, and wears a buffalo hat. He also carried a pair of Colt revolvers.
 
 Americans crossing the Mississippi did not prefer the American Long Rifle, which had been perfect for shooting small targets in dense Eastern woods. On the plains, a larger caliber was needed for game such as buffalo, grizzly bear, or elk. Plainsmen also needed a shorter gun for use on horseback.
 

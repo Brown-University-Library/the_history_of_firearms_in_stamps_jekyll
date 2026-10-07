@@ -15,7 +15,7 @@ hotspots:
 ---
 The stamp is based on the same Sandham painting as the previous stamp, from 1925. It was issued on the 50th anniversary of the old stamp and the 200th anniversary of the battle. Stamp printing had vastly improved during the half-century, including with the 1967 introduction of true process color (tiny dots of cyan, magenta, yellow, and black) via photogravure printing.
 
-The British army carried the newest model of the Brown Bess musket. The men of New England---and some women, who also fought on April 19, 1775—typically had versions of the Brown Bess, such as leftovers from the French & Indian War.  
+The British army carried the newest model of the Brown Bess musket. The men of New England---and some women, who also fought on April 19, 1775—typically had older versions of the Brown Bess, such as leftovers from the French & Indian War.  
 
 ![A circa 1775 American Committee of Safety flintlock musket. Modeled after the British "Brown Bess," this .75-caliber, muzzle-loading firearm features a plain, dark-stained wooden stock, a long metal barrel, and a standard, unmarked flintlock mechanism.](../img/itemimgs/committee_of_safety_flintlock_musket.webp)
 

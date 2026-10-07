@@ -15,7 +15,7 @@ hotspots:
 ---
 Southern New Jersey had once been part of New Sweden, but was conquered by New Netherland in 1655. When a menacing English fleet arrived in New Amsterdam harbor in 1664, all of New Netherland quickly surrendered to the English. Tired of the autocratic and corrupt rule of the Dutch West India Company, the people of New Netherland refused to assemble in militias to stop the English. New Netherland became New York and New Jersey.
 
-The English noble in the foreground wears a sword--which, besides being useful for fighting, was a near-universal status symbol of the English nobility at the time. The same is true of the noble’s long and well-combed hair.
+The English noble in the foreground wears a sword---which, besides being useful for fighting, was a near-universal status symbol of the English nobility at the time. The same is true of the noble’s long and well-combed hair.
 
 ![A close-up view from above of the lock of Dutch-American flintlock fowler.](../img/itemimgs/dutch_english_flintlock_fowler.webp)
 

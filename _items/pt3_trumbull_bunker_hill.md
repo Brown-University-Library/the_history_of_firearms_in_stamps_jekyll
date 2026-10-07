@@ -10,14 +10,14 @@ title_detailed: "Trumbull: Bunker Hill (Year of Issue 1975) Scott Number 1564"
 list_title: "Trumbull: Bunker Hill, June 17, 1775"
 image: pt3_The_American_Revolution_files/6554c82f75769e0019986990.webp
 image_old: pt3_The_American_Revolution_files/6554c82f75769e0019986990.png
-img_alttext: Dr. Joseph Warren, the American commanding officer at Bunker Hill, lies on the ground, supported by one of his soldiers as he expires. The Patriots raise a flag above the fighting as the British and Americans continue warring.
+img_alttext: Patriot leader Dr. Joseph Warren lies on the ground, supported by one of his soldiers as he expires. The Patriots raise a flag above the fighting as the British and Americans continue warring.
 hotspots: 
 ---
-After the disaster at Lexington & Concord, the British redcoats retreated back to Boston, where they were besieged by the Americans. The British tried to break out from the siege on June 17, 1775, at Bunker Hill. The battle ended in a draw, the British being saved only because the Americans began running out of gunpowder. The American shortage of gunpowder had also been the reason why the redcoats escaped complete destruction on their ill-fated march back to Boston on April 19.
+After the disaster at Lexington & Concord, the British redcoats retreated back to Boston, where they were besieged by the Americans. The British tried to break out from the siege on June 17, 1775, at Bunker Hill. The British survived the battle only because the Americans began running out of gunpowder. The American shortage of gunpowder had also been the reason why the redcoats escaped complete destruction on their ill-fated march back to Boston on April 19.
 
 The stamp’s beautiful reproduction of a painting by John Trumbull demonstrates the Post Office’s great advances in color and fine detail.  
 
-The scene depicted is the death of Dr. Joseph Warren---an ardent Patriot leader who served as a commanding officer at Bunker Hill.
+The scene depicted is the death of Dr. Joseph Warren—a Major General who volunteered to fight in the line at Bunker Hill.
 
 ![A long flintlock with a dark heel with a carved lobe shape, creating an effect that the grip's narrow stick continues deep into the heel.](../img/itemimgs/french_model_1765_cassagnard_flintlock_fusil.webp)
 

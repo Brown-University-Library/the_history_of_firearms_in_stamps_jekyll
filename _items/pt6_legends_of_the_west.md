@@ -13,6 +13,6 @@ image_old: pt6_Westward_ho_files/66a289a31036f921929278ae.jpg
 img_alttext: USPS 1994 Legends of the West stamp sheet, featuring a decorative wilderness title header above a grid of twenty unique 29-cent stamps depicting frontier legends, Native American leaders, and Western wildlife.
 hotspots: 
 ---
-The firearms in this popular souvenir sheet include the previously-discussed stamps for Annie Oakley, Geronimo, and Kit Carson. Additionally, the souvenir sheet's Overland Mail stamp depicts a stage coach and a lone horseman, both with long guns.
+The firearms in this popular souvenir sheet include the previously discussed stamps for Annie Oakley, Geronimo, and Kit Carson. Additionally, the souvenir sheet's Overland Mail stamp depicts a stagecoach and a lone horseman, both with long guns.
 
 Not portrayed with firearms, but well-known as firearms users, are mountain men Jim Bridger and Jim Beckwourth; the world-famous scout and entertainer Buffalo Bill; cowboy and showman Bill Pickett; lawmen Bat Masterson, Wyatt Earp, Charles Goodnight (Texas Ranger), Wild Bill Hickok, and Bill Tilghman; and Nez Perce Indian leader Chief Joseph.

@@ -5,6 +5,6 @@ parentid: pt7_1942_into_the_battle
 image: pt7_Global_Wars_files/1942corregidor.webp
 title: "Corregidor falls to Japanese May 6, 1942 (#2697d)"
 description: 
-img_alttext: Closely-packed troops hold their hands up in surrender.
+img_alttext: Closely packed troops hold their hands up in surrender.
 _note: Dozens of troops hold their hands up in surrender
 ---

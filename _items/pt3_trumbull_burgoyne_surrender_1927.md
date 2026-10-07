@@ -10,7 +10,7 @@ title_detailed: "Trumbull: Burgoyne surrender (Year of Issue 1927) Scott Number 
 list_title: "Trumbull: Burgoyne surrender"
 image: pt3_The_American_Revolution_files/6696e0e0feb9ff871e758406.webp
 image_old: pt3_The_American_Revolution_files/6696e0e0feb9ff871e758406.jpg
-img_alttext: Excerpting John Trumbull’s painting “The Surrender of General Burgoyne,” the stamp features Burgoyne in the center, his arms extended in a formal gesture of capitulation, handing over his sword. American General Horatio Gates, authoritative and respectful, receives the surrender.
+img_alttext: Excerpting John Trumbull’s painting “The Surrender of General Burgoyne,” the stamp features Burgoyne, his arms extended in a formal gesture of capitulation, handing over his sword. American General Horatio Gates, authoritative and respectful, receives the surrender.
 hotspots: 
 ---
 At the Battle of Saratoga, N.Y., on September 19 and October 7, 1777, Burgoyne’s weakened British and Hessian army suffered a crushing defeat. All of Burgoyne’s army was taken prisoner. The scene depicts Burgoyne handing over his sword, the traditional commander’s gesture of surrender. When news of Saratoga reached Paris, the French government decided to abandon its policy of covertly supplying arms to the Americans. Soon, the Franco-American Treaty of Amity and Commerce was negotiated, and France entered the war as an active American ally.

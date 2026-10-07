@@ -17,6 +17,6 @@ This Pony Express rider wears a large handgun, perhaps a [six-shot 1851 Colt per
 
 ![A dark revolver with minimal ornamentation, but with a grip of dark wood, and a shining brass trigger-guard.](../img/itemimgs/1851colt.webp)
 
-With short barrels and easy handling, revolvers were well-suited for men or women on horseback. Their ammunition capacity allowed 5 or 6 shots before reloading. In the Civil War, many cavalrymen on both sides would be equipped with revolvers. This particular handgun belonged to William F. “Buffalo Bill” Cody, who, early in his career, was a Pony Express rider.
+With short barrels and easy handling, revolvers were well-suited for men or women on horseback. Their ammunition capacity allowed 5 or 6 shots before reloading. In the Civil War, many cavalrymen on both sides would be equipped with revolvers. This particular handgun belonged to William F. “Buffalo Bill” Cody, who early in his career was a Pony Express rider.
 
 The 1940 stamp commemorates the 80th anniversary of the Pony Express. Issued while World War II was raging in the Eastern Hemisphere, the stamp was perhaps intended in part to remind Americans of their heritage of armed valor and rugged individualism.

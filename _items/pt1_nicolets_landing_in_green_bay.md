@@ -10,7 +10,7 @@ title_detailed: Nicolet's Landing in Green Bay (Year of Issue 1934) Scott Number
 list_title: Nicolet's Landing in Green Bay, 1634
 image: pt1_The_Age_of_Exploration_files/6554b7c15fe66200192bcc18.webp
 image_old: pt1_The_Age_of_Exploration_files/6554b7c15fe66200192bcc18.png
-img_alttext: In a lavender scene, French explorer Jean Nicolet stands with a group of military personnel armed with the newly developed French wheellocks. Opposite them is a group of Native Americans. Bottom middle of the stamp reads 'Nicolet's Landing on the Shores of Green Bay'.
+img_alttext: In a lavender scene, French explorer Jean Nicolet stands with a group of military personnel armed with French wheellocks. Opposite them is a group of Native Americans. Bottom middle of the stamp reads 'Nicolet's Landing on the Shores of Green Bay'.
 hotspots: 
 ---
 Whereas English colonists were mostly left to fend for themselves (and to govern themselves), French and Spanish colonization was directed by the monarchs and was carried out by the military forces of those nations.
