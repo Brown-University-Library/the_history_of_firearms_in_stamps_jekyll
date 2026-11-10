@@ -4,6 +4,9 @@ layout: default
 {% include baseurl.html
 %}{%   assign parent = site.cases | where: "objectid", page.parentid | first
 %}{%   assign nextparent = site.cases | where: "objectid", page.next.parentid | first
+%}{% unless nextparent
+%}{%   assign nextparent = site.cases | last
+%}{% endunless
 %}{% assign introclasses = "longtitle"
 %}
     <div id="imgcol">{% assign iscarousel = page.is_carousel
