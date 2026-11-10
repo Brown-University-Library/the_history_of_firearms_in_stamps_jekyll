@@ -17,4 +17,4 @@ The French government persecuted French Protestants, the Huguenots. Many of them
 
 As of the 1620s, the Dutch Republic was the firearms manufacturing center of the world, producing large quantities at affordable prices. The 1624 settlers presumably brought standard Dutch muskets. Later, the inhabitants of New Netherland would produce the first distinctively American firearm: the [Dutch-English fowler](https://www.nramuseum.org/guns/the-galleries/road-to-american-liberty-1700-to-1780/case-4-shot-heard-round-the-world/dutch-english-flintlock-fowler.aspx), a hybrid musket that was suitable for militia service and for hunting, especially waterfowl. This was the beginning of the enduring American preference for multipurpose hybrid guns.
 
-![Late 17th-century Dutch-English flintlock fowler shotgun featuring an exceptionally long iron barrel, a full-length dark wooden stock.](../img/itemimgs/dutch_english_flintlock_fowler.webp)
+![Late 17th-century Dutch-English flintlock fowler shotgun featuring an exceptionally long iron barrel, a full-length dark wooden stock.](../img/itemimgs/dutch_english_flintlock_fowler2.webp)

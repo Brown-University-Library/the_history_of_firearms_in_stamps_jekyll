@@ -13,9 +13,9 @@ image_old: pt7_Global_Wars_files/6560ff4d9c603c0019045591.png
 img_alttext: A crowd of American soldiers march past the Arc de Triomphe. Six American P-51 Mustang fighter planes fly overhead.
 hotspots: 
 ---
-In World War II, Paris had surrendered to the Nazis in June 1940. (“Nazi” was a shorthand for “National Socialist German Workers' Party”). Paris was liberated by Allied forces in August 1944. This 1945 stamp shows American soldiers marching past the Arc de Triomphe in the liberation parade of August 29, 1944.
+In World War II, Paris had surrendered to the Nazis in June 1940. (“Nazi” was a shorthand for “National Socialist German Workers' Party”). Paris was liberated by Allied forces in August 1944. This 1945 stamp shows American soldiers marching past the Arc de Triomphe in the liberation parade of August 29, 1944. Most of the soldiers in the parade carried the semiautomatic [M1 Garand rifle](https://www.nramuseum.org/media/940582/m1%20garand%20rifle.pdf).
 
-Most of the soldiers in the parade carried the semiautomatic [M1 Garand rifle](https://www.nramuseum.org/media/940582/m1%20garand%20rifle.pdf). The role of the French Resistance in the dark days between the French government’s surrender in June 1940 and liberation by the Allies in 1944 should not be overlooked.
+The role of the French Resistance in the dark days between the French government’s surrender in June 1940 and liberation by the Allies in 1944 should not be overlooked.
 
 ![World War II U.S. military "Liberator" single-shot pistol. The weapon features a crude, blocky design constructed from stamped sheet metal with visible rivets, a short unrifled cylindrical barrel, an oversized zinc cocking knob at the rear, a simple loop trigger guard, and a hollow, rectangular grip panel.](../img/itemimgs/u_s_general_motors_guide_lamp_division_liberator_single_shot_pistol.webp)
 

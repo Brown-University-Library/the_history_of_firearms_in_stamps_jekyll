@@ -21,4 +21,4 @@ At Petersburg, these troops could have won the Civil War then and there, accordi
 
 ![A British-made Barnett Model 1853 Enfield percussion rifle-musket. The long arm features a dark wood stock stretching nearly the length of the barrel, a steel barrel secured by three metal bands, and a percussion lock mechanism near the trigger.](../img/itemimgs/barnett_model_1853_enfield_percussion_rifle_musket.webp)
 
-Second only to Springfield rifles, the British-made [1853 Enfield Rifle Musket](https://www.nramuseum.org/guns/the-galleries/a-nation-asunder-1861-to-1865/case-17-civil-war-imported-arms/barnett-model-1853-enfield-percussion-rifle-musket.aspx) was the most common firearm on both sides of the Civil War.
+Second only to federally-manufactured rifles, the British-made [1853 Enfield Rifle Musket](https://www.nramuseum.org/guns/the-galleries/a-nation-asunder-1861-to-1865/case-17-civil-war-imported-arms/barnett-model-1853-enfield-percussion-rifle-musket.aspx) was the most common firearm on both sides of the Civil War.

@@ -13,7 +13,7 @@ image_old: pt4_A_vigorous_and_growing_nation_files/669937f233a9c1901da91beb.jpg
 img_alttext: From the left, a Native American wearing a feather and holding out a peace pipe approaches a pair of covered wagons. A woman and two children huddle near the front, while a third child looks out from inside the wagon. Two American men hold rifles pointed skyward, while a third carries an axe.
 hotspots: 
 ---
-Painter Thomas Hart Benton (1889--1975) was a distant descendant of Missouri’s first U.S. Senator, and shared the same name. This was the first stamp that U.S. stamp that Bureau of Engraving and Printing (BEP) with its new Andreotti photogravure press. For the previous several years, the BEP had contracted with private firms for photogravure printing.
+Painter Thomas Hart Benton (1889--1975) was a distant descendant of Missouri’s first U.S. Senator, and shared the same name. This was the first stamp that U.S. stamp that Bureau of Engraving and Printing (BEP) produced with its new Andreotti photogravure press. For the previous several years, the BEP had contracted with private firms for photogravure printing.
 
 The stamp depicts the fraught relationship between Indians and the settlers crossing the Mississippi River to move west. The settlers are traveling by ox-drawn covered wagon. They appear startled and worried by the apparently unexpected arrival of an Indian. He bears a peace pipe, but are his intentions truly peaceful? The settlers are unsure.
 

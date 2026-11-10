@@ -19,4 +19,4 @@ Of course Daniel Boone carried an American Long Rifle as he explored Tennessee a
 
 At close quarters, a musket could be used as a club, but the American Long Rifle was too delicate for that purpose. So almost everyone who carried an American Long Rifle also carried an additional weapon, such as a tomahawk, for close-quarters fighting. For persons who carried muskets, which were sturdier than long rifles, the close quarters weapon was often a bayonet affixed below the musket’s muzzle.
 
-The powder horn, on the lower left, was made from a hollowed-out animal horn, and was used to carry gunpowder. On the right tip of the powderhorn is a charger, for dispensing an exact quantity of gunpowder into a firearm when reloading.
+The powderhorn, on the lower left, was made from a hollowed-out animal horn, and was used to carry gunpowder. On the right tip of the powderhorn is a charger, for dispensing an exact quantity of gunpowder into a firearm when reloading.

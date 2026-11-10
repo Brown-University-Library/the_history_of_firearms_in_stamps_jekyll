@@ -10,7 +10,7 @@ title_detailed: "Powderhorn, 1775--1776 (Year of Issue 2026)\nScott Number 6091"
 list_title: 
 image: 250powderhorn.webp
 image_old: 250powderhorn.webp
-img_alttext: A polished, golden-amber cow horn curves gracefully, its surface richly hand-engraved with “LIBERTY or DEATH,” surrounded by delicate floral and vine motifs. Warm lighting highlights the depth of the carvings and the artifact’s historical character, with “POWDER HORN, 1775-1776” printed below the image against a subtle bronze-toned background that evokes Revolutionary-era documents.
+img_alttext: A polished, golden-amber cow horn curves gracefully, its surface richly hand-engraved with “LIBERTY or DEATH,” surrounded by delicate floral and vine motifs. Warm lighting highlights the depth of the carvings and the artifact’s historical character, with “powderhorn, 1775-1776” printed below the image against a subtle bronze-toned background that evokes Revolutionary-era documents.
 hotspots: 
 ---
 This stamp and the next one come from a 2026 ten-stamp series “Treasures of the Revolutionary Era.” The 2026 series continues in the tradition of the "American Treasures" series (2001--14), highlighting fine American craftsmanship and material culture.

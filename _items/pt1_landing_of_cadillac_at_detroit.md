@@ -15,4 +15,4 @@ hotspots:
 ---
 Note the fleur-de-lis flag, which was the main flag of New France. The picture shows fine engraving on a [French flintlock fusil](https://www.nramuseum.org/guns/the-galleries/road-to-american-liberty-1700-to-1780/case-4-shot-heard-round-the-world/french-flintlock-fusil.aspx).
 
-![Detailed close-up of engravings on a circa 1690 French colonial flintlock fusil made of dark polished wood.](../img/itemimgs/french_flintlock_fusil.webp)
+![Detailed close-up of engravings on a circa 1690 French colonial flintlock fusil made of dark polished wood.](../img/itemimgs/french_flintlock_fusil_2.webp)

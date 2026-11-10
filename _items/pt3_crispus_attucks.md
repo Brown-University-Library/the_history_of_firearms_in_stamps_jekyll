@@ -17,6 +17,6 @@ Another Grenada stamp honors Crispus Attucks, who in a sense was the first Ameri
 
 The stamp depicts Attucks carrying a club, a common practice of Bostonians for defense against the occupying soldiers.
 
-The nation of Antigua also issued bicentennial stamps: “Privates, Clark’s Illinois Regiment”, “Riflemen, Pennsylvania Militia”, and “Engraved American Powder Horn.” (Antigua nos. 423, 424, 425.) India issued a beautiful reproduction of the full “Spirit of 76” painting. (The upper part of the painting is U.S. nos. 1629-31.)
+The nation of Antigua also issued bicentennial stamps: “Privates, Clark’s Illinois Regiment”, “Riflemen, Pennsylvania Militia”, and “Engraved American powderhorn.” (Antigua nos. 423, 424, 425.) India issued a beautiful reproduction of the full “Spirit of 76” painting. (The upper part of the painting is U.S. nos. 1629-31.)
 
 Other foreign stamps depicting firearms and celebrating the U.S. bicentennial were issued by the Comoros Islands, Dominica, Equatorial Guinea, Gambia, Mexico, the Indian state of Nagaland, the Popular Republic of Congo, the Solomon Islands, Tunisia, and Upper Volta (today, Burkina Faso).

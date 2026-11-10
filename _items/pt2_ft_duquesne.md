@@ -21,6 +21,6 @@ Whereas the bore (the interior of the barrel) of a musket is smooth, a rifle bor
 
 Compared to a Brown Bess musket, the Pennsylvania-Kentucky rifle was more difficult to manufacture, slower to reload, longer (and hence more accurate at distance), lower caliber, and lighter weight. It was superb for the conditions of the American forest.
 
-![American circa-1770 flintlock long rifle, a long-barreled muzzle-loading firearm with a slender wooden stock, metal barrel, flintlock mechanism, and period hardware, shown in a full-length museum display view.](../img/itemimgs/j_graeff_flintlock_rifle.webp)
+![American circa-1770 flintlock long rifle, a long-barreled muzzle-loading firearm with a slender wooden stock, metal barrel, flintlock mechanism, and period hardware, shown in a full-length museum display view.](../img/itemimgs/j_graeff_flintlock_rifle2.webp)
 
 Whereas rifles had never been popular in England, the [American Long Rifle](https://www.nramuseum.org/the-museum/the-galleries/the-road-to-american-liberty/case-21-the-flintlock/american-circa-1770-flintlock-long-rifle.aspx) became the first iconic American firearm. 
